@@ -10,7 +10,8 @@ const ICONS = {
   sliders:`<svg viewBox="0 0 24 24"><line x1="4" y1="21" x2="4" y2="14"/><line x1="4" y1="10" x2="4" y2="3"/><line x1="12" y1="21" x2="12" y2="12"/><line x1="12" y1="8" x2="12" y2="3"/><line x1="20" y1="21" x2="20" y2="16"/><line x1="20" y1="12" x2="20" y2="3"/><line x1="1" y1="14" x2="7" y2="14"/><line x1="9" y1="8" x2="15" y2="8"/><line x1="17" y1="16" x2="23" y2="16"/></svg>`,
   sun:    `<svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.93 4.93l1.41 1.41M17.66 17.66l1.41 1.41M2 12h2M20 12h2M4.93 19.07l1.41-1.41M17.66 6.34l1.41-1.41"/></svg>`,
   tent:   `<svg viewBox="0 0 24 24"><path d="M3.5 21 14 3"/><path d="M20.5 21 10 3"/><path d="M15.5 21 12 15l-3.5 6"/><path d="M2 21h20"/></svg>`,
-  wind:   `<svg viewBox="0 0 24 24"><path d="M17.7 7.7a2.5 2.5 0 1 1 1.8 4.3H2"/><path d="M9.6 4.6A2 2 0 1 1 11 8H2"/><path d="M12.6 19.4A2 2 0 1 0 14 16H2"/></svg>`,
+  wind:     `<svg viewBox="0 0 24 24"><path d="M17.7 7.7a2.5 2.5 0 1 1 1.8 4.3H2"/><path d="M9.6 4.6A2 2 0 1 1 11 8H2"/><path d="M12.6 19.4A2 2 0 1 0 14 16H2"/></svg>`,
+  droplets: `<svg viewBox="0 0 24 24"><path d="M7 16.3c2.2 0 4-1.83 4-4.05 0-1.16-.57-2.26-1.71-3.19S7.29 6.75 7 5.3c-.29 1.45-1.14 2.84-2.29 3.76S3 11.1 3 12.25c0 2.22 1.8 4.05 4 4.05z"/><path d="M12.56 6.6A10.97 10.97 0 0 0 14 3.02c.5 2.5 2 4.9 4 6.5s3 3.5 3 5.5a6.98 6.98 0 0 1-11.91 4.97"/></svg>`,
 }
 
 const CAT_COLORS = {
@@ -21,6 +22,7 @@ const CAT_COLORS = {
   'grow-controllers':             '#f0883e',
   'grow-light-fixtures':          '#ffd33d',
   'grow-tents':                   '#79c0ff',
+  'humidifiers':                  '#22d3ee',
   'inline-duct-fans':             '#56d364',
 }
 
@@ -32,6 +34,7 @@ const KEY_SPECS = {
   'grow-controllers':             ['controller_type', 'max_device_count', 'wifi', 'app_control'],
   'grow-light-fixtures':          ['power_watts', 'ppf_umol_s', 'efficacy_umol_j'],
   'grow-tents':                   ['width_cm', 'depth_cm', 'height_cm', 'area_m2'],
+  'humidifiers':                  ['humidifier_type', 'tank_capacity_l', 'mist_output_ml_h_max', 'vpd_control', 'wifi'],
   'inline-duct-fans':             ['flange_diameter_mm', 'max_airflow_m3_h', 'motor_type', 'static_pressure_pa'],
 }
 

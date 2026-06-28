@@ -37,6 +37,7 @@ CATEGORY_SCHEMAS = {
     "grow-controllers": "grow-controllers.schema.json",
     "grow-light-fixtures": "grow-light-fixtures.schema.json",
     "grow-tents": "grow-tents.schema.json",
+    "humidifiers": "humidifiers.schema.json",
     "inline-duct-fans": "inline-duct-fans.schema.json",
 }
 
@@ -163,9 +164,21 @@ def _check_grow_lights(data):
     return errs
 
 
+def _check_humidifiers(data):
+    errs = []
+    e = _minmax_check(data, "mist_output_ml_h_min", "mist_output_ml_h_max")
+    if e:
+        errs.append(e)
+    e = _minmax_check(data, "recommended_tent_min_cm", "recommended_tent_max_cm")
+    if e:
+        errs.append(e)
+    return errs
+
+
 CUSTOM_CHECKS = {
     "carbon-filters": _check_carbon_filter,
     "circulation-fans": _check_circulation_fans,
+    "humidifiers": _check_humidifiers,
     "inline-duct-fans": _check_inline_fans,
     "grow-tents": _check_grow_tents,
     "grow-light-fixtures": _check_grow_lights,

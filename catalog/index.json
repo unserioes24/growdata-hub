@@ -58,6 +58,14 @@
       "total": 299
     },
     {
+      "label": "Humidifiers",
+      "description": "Ultrasonic and evaporative humidifiers for grow spaces",
+      "icon": "droplets",
+      "color": "#22d3ee",
+      "id": "humidifiers",
+      "total": 19
+    },
+    {
       "label": "Inline Duct Fans",
       "description": "Mixed-flow and centrifugal extraction fans",
       "icon": "wind",

@@ -18,6 +18,7 @@ CATEGORIES = {
     "grow-controllers":             {"label": "Grow Controllers",         "description": "Climate, fan, and environmental automation controllers",       "icon": "sliders",  "color": "#f0883e"},
     "grow-light-fixtures":          {"label": "Grow Lights",              "description": "LED and HID grow light fixtures",                             "icon": "sun",      "color": "#ffd33d"},
     "grow-tents":                   {"label": "Grow Tents",               "description": "Reflective indoor grow tents",                                "icon": "tent",     "color": "#79c0ff"},
+    "humidifiers":                  {"label": "Humidifiers",              "description": "Ultrasonic and evaporative humidifiers for grow spaces",       "icon": "droplets", "color": "#22d3ee"},
     "inline-duct-fans":             {"label": "Inline Duct Fans",         "description": "Mixed-flow and centrifugal extraction fans",                  "icon": "wind",     "color": "#56d364"},
 }
 
@@ -29,6 +30,7 @@ PREVIEW = {
     "grow-controllers":             ["controller_type", "max_device_count", "max_ports", "wifi", "app_control", "uvp_amount", "uvp_currency"],
     "grow-light-fixtures":          ["power_watts", "ppf_umol_s", "efficacy_umol_j", "area_width_cm", "area_depth_cm", "uvp_amount", "uvp_currency"],
     "grow-tents":                   ["width_cm", "depth_cm", "height_cm", "area_m2", "uvp_amount", "uvp_currency"],
+    "humidifiers":                  ["humidifier_type", "tank_capacity_l", "mist_output_ml_h_max", "vpd_control", "uvp_amount", "uvp_currency"],
     "inline-duct-fans":             ["flange_diameter_mm", "max_airflow_m3_h", "motor_type", "static_pressure_pa", "uvp_amount", "uvp_currency"],
 }
 
