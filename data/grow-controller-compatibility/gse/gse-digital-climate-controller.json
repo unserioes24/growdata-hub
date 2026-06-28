@@ -1,0 +1,23 @@
+{
+  "controller_model": "GSE Digital Climate Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "GSE Digital Climate Controller",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Prima Klima 125L AC, Vents TT 150, Rhino Pro 150",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.grow-shop24.de/gse-klima-regler-regelt-feuchtigkeit-temperatur-und-unterdruck",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "TRIAC phase-cut speed control; 2 Schuko outlets (exhaust + intake); modulates fan speeds based on temperature (20-30 °C), humidity (30-100 % RH) AND negative pressure (50-100 %); combined temp+humidity 4 m digital probe (±0.5 °C / ±4.5 % RH); IP54; humidity control is indirect via fan speed adjustment only — no dedicated humidifier outlet; for direct humidifier switching a separate GSE Humidifier/Dehumidifier Controller is required; model variant 2LHY; NOT compatible with EC fans; NOT compatible with Soler & Palau Silent TD series"
+    }
+  ]
+}

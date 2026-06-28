@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster TS-1 Thermostat Station (Cool-Only HVAC)",
+  "type": "relay_module",
+  "price_amount": 117.95,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/TS-1",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "24V thermostat interface for cool-only HVAC units. EUR price from lientec-led.com"
+}

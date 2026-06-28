@@ -1,0 +1,12 @@
+{
+  "brand": "AC Infinity",
+  "compatible_series": "Controller 69 Pro",
+  "name": "69 Pro Climate Sensor, VPD, Temperature, and Humidity Readings, 1 inch",
+  "type": "temp_humidity_sensor",
+  "price_amount": 14.04,
+  "price_currency": "EUR",
+  "source_url": "https://acinfinity.com/69-pro-climate-sensor-vpd-temperature-and-humidity-readings-1/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Model AC-SPB1, 3.5mm plug, 1 inch (2.5cm) probe. Compatible with T-Series controllers (CLOUDLINE, AIRLIFT, AIRTITAN, AIRBLAZE, CLOUDWAY). Short probe for wide area detection."
+}

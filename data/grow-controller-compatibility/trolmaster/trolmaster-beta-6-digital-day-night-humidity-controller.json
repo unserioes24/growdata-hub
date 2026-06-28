@@ -1,0 +1,41 @@
+{
+  "controller_model": "TrolMaster BETA-6 Digital Day/Night Humidity Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "TrolMaster BETA-6 Digital Day/Night Humidity Controller",
+      "compatible_product_category": "humidifier",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any 120V plug-in humidifier ≤10A",
+      "compatible_model_examples": "Honeywell HCM-350, Pure Enrichment MistAire XL, Vornado EVDC300",
+      "compatibility_level": "full",
+      "connector_or_protocol": "NEMA 5-15 outlet (relay, on/off)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.trolmaster.com/Products/Details/BETA-6",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Humidify mode must be selected on the controller; relay activates humidifier when RH drops below setpoint. Day and night RH setpoints independently configurable. Control range 20–90% RH, deadband 5%. Any 120V humidifier or ultrasonic fogger drawing ≤10A is plug-and-play compatible. Controller is 120V only (US market); requires step-down transformer for 230V German market."
+    },
+    {
+      "controller_model": "TrolMaster BETA-6 Digital Day/Night Humidity Controller",
+      "compatible_product_category": "dehumidifier",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any 120V plug-in dehumidifier ≤10A",
+      "compatible_model_examples": "hOmeLabs HME020031N 35-pint, Frigidaire FFAD3033R1, Keystone KSTAD50B",
+      "compatibility_level": "full",
+      "connector_or_protocol": "NEMA 5-15 outlet (relay, on/off)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.trolmaster.com/Products/Details/BETA-6",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Dehumidify mode must be selected on the controller (mode is user-selectable — only one device type connected at a time). Relay activates dehumidifier when RH exceeds setpoint. Any 120V dehumidifier drawing ≤10A is plug-and-play compatible. Controller is 120V only."
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "controller_model": "Autopilot APCET2 Advanced Day & Night Cooling/Heating Thermostat",
+  "compatible_devices": [
+    {
+      "controller_model": "Autopilot APCET2 Advanced Day & Night Cooling/Heating Thermostat",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "NEMA 5-15 outlet (120V/60Hz)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://hydropros.com/products/autopilot-24-hr-day-night-cooling-heating-thermostat",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Configured in cooling mode: switches 120V AC inline or exhaust fan on when temperature exceeds day or night setpoint. On/off only, no variable speed. Also suitable for portable AC units and window ACs that auto-restart. 120V/15A max, temperature range 50-100°F. Memory-lock prevents accidental setpoint changes. US 120V only."
+    },
+    {
+      "controller_model": "Autopilot APCET2 Advanced Day & Night Cooling/Heating Thermostat",
+      "compatible_product_category": "heater",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "NEMA 5-15 outlet (120V/60Hz)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://hydropros.com/products/autopilot-24-hr-day-night-cooling-heating-thermostat",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Configured in heating mode: switches 120V electric heater on when temperature falls below setpoint. Any 120V electric space or fan heater up to 15A compatible. On/off only. Temperature range 50-100°F. Memory-lock feature distinguishes APCET2 from basic APCET; prevents knob from being accidentally knocked off setpoint."
+    },
+    {
+      "controller_model": "Autopilot APCET2 Advanced Day & Night Cooling/Heating Thermostat",
+      "compatible_product_category": "circulation_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "limited",
+      "connector_or_protocol": "NEMA 5-15 outlet (120V/60Hz)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://hydropros.com/products/autopilot-24-hr-day-night-cooling-heating-thermostat",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "C",
+      "notes": "Technically compatible: any 120V AC circulation fan can be switched on/off via the thermostat outlet. Use case is non-standard; circulation fans normally run continuously rather than on a temperature trigger. Memory-lock feature (vs. basic APCET) reduces risk of accidental setting drift."
+    }
+  ]
+}

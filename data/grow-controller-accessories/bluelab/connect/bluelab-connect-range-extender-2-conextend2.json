@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "Connect",
+  "name": "Bluelab Connect Range Extender 2 (CONEXTEND2)",
+  "type": "wireless_transmitter",
+  "price_amount": 237,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-connect-range-extender-2",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Wireless range extender for Bluelab Connect Stick 2 and Connect devices. Extends range 4x (up to 1600m in open space). Multiple units can be chained."
+}

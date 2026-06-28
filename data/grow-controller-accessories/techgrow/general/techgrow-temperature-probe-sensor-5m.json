@@ -1,0 +1,12 @@
+{
+  "brand": "TechGrow",
+  "compatible_series": null,
+  "name": "TechGrow Temperature Probe Sensor (5m)",
+  "type": "sensor_probe",
+  "price_amount": 16.79,
+  "price_currency": "EUR",
+  "source_url": "https://www.techgrow.nl/temp-probe-sensor-5m.html",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Temperature-only probe, 5m cable; compatible with Clima Pro; standalone mode only; SKU 12001"
+}

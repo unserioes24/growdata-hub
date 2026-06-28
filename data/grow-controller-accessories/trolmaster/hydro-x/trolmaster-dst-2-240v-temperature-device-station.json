@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster DST-2 240V Temperature Device Station",
+  "type": "relay_module",
+  "price_amount": 103.95,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/DST-2",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "240V smart outlet for heating/cooling devices; 10A max. EUR price from lientec-led.com"
+}

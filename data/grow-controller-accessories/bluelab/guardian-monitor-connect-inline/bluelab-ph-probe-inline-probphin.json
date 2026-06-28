@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "Guardian Monitor Connect Inline",
+  "name": "Bluelab pH Probe Inline (PROBPHIN)",
+  "type": "ph_probe",
+  "price_amount": 219,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-ph-probe-inline",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Inline replacement pH probe for Guardian Monitor Connect Inline. 3/4\" NPT thread for pipe mounting, 3m cable, rated to 7 bar (100 psi)."
+}

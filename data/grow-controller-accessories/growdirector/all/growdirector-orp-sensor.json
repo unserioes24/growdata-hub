@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector ORP Sensor",
+  "type": "sensor_probe",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://growdirector.com/do-and-orp-sensors-for-professional-greenhouses/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Measures oxidation-reduction potential of nutrient solutions; connects to HydroDirector; sold alongside DO sensor; no dedicated manufacturer shop page"
+}

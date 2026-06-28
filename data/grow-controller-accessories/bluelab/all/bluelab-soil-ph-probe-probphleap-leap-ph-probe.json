@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "all",
+  "name": "Bluelab Soil pH Probe (PROBPHLEAP / Leap pH Probe)",
+  "type": "ph_probe",
+  "price_amount": 152,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-leap-ph-probe",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Reinforced spear-tip pH probe for soil, coco, rockwool and substrate. BNC connection, 2m cable. SKU PROBPHLEAP. Bluelab website now lists this as 'Soil pH Probe'."
+}

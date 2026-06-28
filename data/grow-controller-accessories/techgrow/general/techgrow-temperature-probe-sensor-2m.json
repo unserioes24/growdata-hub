@@ -1,0 +1,12 @@
+{
+  "brand": "TechGrow",
+  "compatible_series": null,
+  "name": "TechGrow Temperature Probe Sensor (2m)",
+  "type": "sensor_probe",
+  "price_amount": 11.02,
+  "price_currency": "EUR",
+  "source_url": "https://www.techgrow.nl/temp-probe-sensor-2m.html",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Simple temperature-only probe, 2m cable; standalone mode only (cannot connect to multiple devices simultaneously); SKU 12000"
+}

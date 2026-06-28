@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster MBS-PRO 4-in-1 Sensor (Temp/Humidity/CO2/Light) for Hydro-X Pro/Plus",
+  "type": "temp_humidity_sensor",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/MBS-Pro",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "4-in-1 sensor for HCS-2 (Pro) and HCS-3 (Plus). Combines air temperature, humidity, CO2 PPM, and light intensity"
+}

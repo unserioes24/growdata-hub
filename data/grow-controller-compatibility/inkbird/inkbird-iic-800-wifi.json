@@ -1,0 +1,59 @@
+{
+  "controller_model": "Inkbird IIC-800-WIFI",
+  "compatible_devices": [
+    {
+      "controller_model": "Inkbird IIC-800-WIFI",
+      "compatible_product_category": "irrigation_controller",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Rain Bird 100-DVF, Hunter PGV-101, Orbit 57461",
+      "compatibility_level": "full",
+      "connector_or_protocol": "24VAC terminals (zones 1-8 + common C + master valve/pump M port)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": "INKBIRD app",
+      "ai_feature_scope": null,
+      "source_url": "https://www.inkbird.com/products/smart-sprinkler-controller-iic-800-wifi",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Controls up to 8 independent 24VAC solenoid irrigation zone valves plus optional master valve via shared M port. Works with any standard 24VAC solenoid. 8-zone variant of IIC-600-WIFI. LCD with backlight. Super-capacitor maintains settings for 10-15 days during power outage. Tuya-based platform; also workable via Smart Life app or custom Home Assistant integration."
+    },
+    {
+      "controller_model": "Inkbird IIC-800-WIFI",
+      "compatible_product_category": "pump",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "via_adapter",
+      "connector_or_protocol": "24VAC terminals (port M, shared with master valve)",
+      "requires_adapter_or_module": true,
+      "required_adapter_or_module": "Pump start relay (24VAC coil)",
+      "app_ecosystem": "INKBIRD app",
+      "ai_feature_scope": null,
+      "source_url": "https://www.manualslib.com/manual/2626748/Inkbird-Iic-800-Wifi.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Port M can drive either a master valve OR a pump start relay, not both simultaneously. Controller provides 24VAC trigger signal only; pump start relay required to switch line voltage to actual pump motor. Pump not included."
+    },
+    {
+      "controller_model": "Inkbird IIC-800-WIFI",
+      "compatible_product_category": "sensor",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Rain Bird WR2, Hunter Mini-Clik, Orbit 57069",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Dedicated sensor terminals (S1, S2 and 24VAC-)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": "INKBIRD app",
+      "ai_feature_scope": null,
+      "source_url": "https://www.manualslib.com/manual/2626748/Inkbird-Iic-800-Wifi.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Supports up to 2 independent rain sensors (S1 and S2). Obey/ignore configurable per zone for each sensor individually. Jumpers on S1/S2 terminals must be removed before connecting sensors. Sensors not included."
+    }
+  ]
+}

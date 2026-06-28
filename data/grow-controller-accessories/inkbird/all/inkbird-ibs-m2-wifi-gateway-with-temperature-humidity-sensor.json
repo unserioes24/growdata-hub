@@ -1,0 +1,12 @@
+{
+  "brand": "Inkbird",
+  "compatible_series": "all",
+  "name": "INKBIRD IBS-M2 WiFi Gateway with Temperature & Humidity Sensor",
+  "type": "wifi_adapter",
+  "price_amount": null,
+  "price_currency": "EUR",
+  "source_url": "https://www.amazon.de/-/en/Combination-Thermometer-Hygrometer-Monitoring-Temperature/dp/B0BVZK2WWD",
+  "source_type": "marketplace",
+  "source_date": "2026-06-28",
+  "notes": "Newer gateway with built-in T/RH display sensor; Amazon.de ASIN B0BVZK2WWD is the combo set with 3× IBS-TH2 sensors. Standalone gateway also available. Connects up to 9 Inkbird Bluetooth/wireless sensors. Useful for multi-zone grow room monitoring."
+}

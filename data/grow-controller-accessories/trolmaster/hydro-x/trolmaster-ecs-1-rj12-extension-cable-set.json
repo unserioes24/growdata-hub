@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster ECS-1 RJ12 Extension Cable Set",
+  "type": "rj12_cable",
+  "price_amount": 21.95,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/ECS-1",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Extension set with 16ft RJ12 cable, 4ft RJ12 cable, and Y-splitter. EUR price from lientec-led.com"
+}

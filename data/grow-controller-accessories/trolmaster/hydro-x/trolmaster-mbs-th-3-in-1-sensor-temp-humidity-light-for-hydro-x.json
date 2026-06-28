@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster MBS-TH 3-in-1 Sensor (Temp/Humidity/Light) for Hydro-X",
+  "type": "temp_humidity_sensor",
+  "price_amount": 98.9,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/MBS-TH",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Standard 3-in-1 sensor for HCS-1. Includes temperature, relative humidity, and photocell. EUR price from hobbygrow.de"
+}

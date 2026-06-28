@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase",
+  "name": "Cable RJ45-LUMATEK",
+  "type": "controller_cable",
+  "price_amount": 36,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/shop/kabel-rj45-lumatek-r-524",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "0-10V dimming cable for Lumatek Zeus LED fixtures; enables dimming and sunrise/sunset functions; available in 1m or 3m; Made in Germany"
+}

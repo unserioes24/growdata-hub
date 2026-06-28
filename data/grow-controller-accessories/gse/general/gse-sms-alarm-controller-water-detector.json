@@ -1,0 +1,12 @@
+{
+  "brand": "GSE",
+  "compatible_series": null,
+  "name": "GSE SMS Alarm Controller Water Detector",
+  "type": "sensor_probe",
+  "price_amount": 19.98,
+  "price_currency": "EUR",
+  "source_url": "https://www.hydroponics.eu/gse-grow-room-sms-alarm-controller-kit~21076.html",
+  "source_type": "retailer",
+  "source_date": "2026-06-28",
+  "notes": "6m cable with plug; expansion flood/water leakage sensor for GSE SMS Alarm Controller; detects conductivity on sensor surface; triggers SMS alert"
+}

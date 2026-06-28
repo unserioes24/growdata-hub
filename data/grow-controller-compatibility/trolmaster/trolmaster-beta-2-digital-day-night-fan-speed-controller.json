@@ -1,0 +1,41 @@
+{
+  "controller_model": "TrolMaster BETA-2 Digital Day/Night Fan Speed Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "TrolMaster BETA-2 Digital Day/Night Fan Speed Controller",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any 120V AC induction motor inline fan",
+      "compatible_model_examples": "Can-Fan RK series, Hurricane Commercial Grade Inline Fan, Active Air AC inline fans",
+      "compatibility_level": "full",
+      "connector_or_protocol": "NEMA 5-15 outlet (Triac phase-cut AC)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.trolmaster.com/Products/Details/BETA-2",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Triac phase-cut provides variable speed 25–100% based on temperature setpoint; day/night setpoints configurable separately via built-in photocell. Connected fan must be 120V and must not exceed 4.5A continuous (6A fuse). EC motor fans (AC Infinity CLOUDLINE, Phresh HyperFan, Can-Fan Max) are NOT compatible — EC motors require 0–10V or PWM signal and can be damaged by phase-cut AC. Controller is 120V/60 Hz (US market); requires step-down transformer for 230V/50 Hz German market."
+    },
+    {
+      "controller_model": "TrolMaster BETA-2 Digital Day/Night Fan Speed Controller",
+      "compatible_product_category": "circulation_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any 120V AC motor circulation/clip fan",
+      "compatible_model_examples": "Hurricane clip fans (AC motor models), Active Air AC clip fans",
+      "compatibility_level": "partial",
+      "connector_or_protocol": "NEMA 5-15 outlet (Triac phase-cut AC)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.trolmaster.com/Products/Details/BETA-2",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Triac phase-cut speed control can work for AC motor circulation fans but small shaded-pole motors (common in cheap clip fans) can overheat or be damaged by phase-cut voltage at low speeds; verify fan compatibility before use. Max 4.5A. Controller is 120V only."
+    }
+  ]
+}

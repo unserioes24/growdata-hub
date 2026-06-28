@@ -1,0 +1,41 @@
+{
+  "controller_model": "Autopilot FUEL ST12 Light Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "Autopilot FUEL ST12 Light Controller",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Universal (any HID brand)",
+      "compatible_series": "240V HPS / MH / CMH ballasts",
+      "compatible_model_examples": "Lumatek 1000W 240V, Phantom 1000W DE Commercial, Agrobrite 1000W 240V",
+      "compatibility_level": "full",
+      "connector_or_protocol": "NEMA 6-15 240V relay outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.growgeneration.com/fuel-st12-light-controller-12-outlet-240v-with-single-trigger.html",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "12 NEMA 6-15 outlets at 240V/5A max each (~1200W per outlet); 3 banks of 4 with 30-sec staggered start; 60A total max ballast load; requires 80A main supply; single 120V trigger cord input requires external timer or controller (not included); any 240V HID ballast with NEMA 6-15 plug is plug-and-play; on/off relay only — no dimming; North American NEMA 6-15 standard — European equipment requires adapter"
+    },
+    {
+      "controller_model": "Autopilot FUEL ST12 Light Controller",
+      "compatible_product_category": "led_grow_light",
+      "compatible_brand": "Universal (any LED brand with 240V NEMA 6-15 plug)",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "limited",
+      "connector_or_protocol": "NEMA 6-15 240V relay outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.growgeneration.com/fuel-st12-light-controller-12-outlet-240v-with-single-trigger.html",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "On/off relay switching only via NEMA 6-15 outlet; no 0-10V, PWM, or any dimming protocol support; LED driver must have a 240V NEMA 6-15 plug; not the primary intended use — Autopilot markets this exclusively as an HID light controller; technically functional as a dumb relay switch for any 240V LED load within 5A/outlet"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "GSE",
+  "compatible_series": "SGC",
+  "name": "SGC Satellite 12 Relay Exit",
+  "type": "relay_module",
+  "price_amount": 119,
+  "price_currency": "EUR",
+  "source_url": "https://g-systems.eu/shop/product/sg31-sgc-satellite-12-relay-exit-4954",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "SG31; 12 individually programmable dry-contact relay outputs (10A/2300W ohmic, 3A inductive each); DIN-rail mount; occupies only 1 SGC sensor port; includes 4m Chogori BUS cable"
+}

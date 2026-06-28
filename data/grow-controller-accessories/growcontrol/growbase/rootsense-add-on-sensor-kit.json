@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase",
+  "name": "RootSense add-on sensor kit",
+  "type": "soil_sensor",
+  "price_amount": 395,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/en_GB/shop/category/sensors-2",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Additional sensor probe for expanding an existing RootSense Kit; includes cable, holder, and T-piece; measures VWC, pwEC and substrate temperature"
+}

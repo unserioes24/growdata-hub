@@ -1,0 +1,12 @@
+{
+  "brand": "TechGrow",
+  "compatible_series": null,
+  "name": "TechGrow Sensor Cable (10m)",
+  "type": "extension_cable",
+  "price_amount": 13,
+  "price_currency": "EUR",
+  "source_url": "https://techgrow.nl/network-cable-10m.html",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "UTP CAT-6 network cable to extend connection between TechGrow sensors and compatible controllers; SKU 12012; also listed on bol.com"
+}

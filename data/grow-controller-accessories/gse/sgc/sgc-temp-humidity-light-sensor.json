@@ -1,0 +1,12 @@
+{
+  "brand": "GSE",
+  "compatible_series": "SGC",
+  "name": "SGC Temp., Humidity, Light Sensor",
+  "type": "temp_humidity_sensor",
+  "price_amount": 89,
+  "price_currency": "EUR",
+  "source_url": "https://g-systems.eu/shop/product/sg12-sgc-temp-humidity-light-sensor-1436",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "SG12; 3-in-1 sensor measuring temperature (0–60°C ±0.5°C), humidity (±3%RH), and ambient light; 4m waterproof PU cable; for SGC Smart Grow Controller"
+}

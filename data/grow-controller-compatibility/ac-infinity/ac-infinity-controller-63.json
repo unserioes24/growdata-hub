@@ -1,0 +1,41 @@
+{
+  "controller_model": "AC Infinity Controller 63",
+  "compatible_devices": [
+    {
+      "controller_model": "AC Infinity Controller 63",
+      "compatible_product_category": "ec_fan",
+      "compatible_brand": "AC Infinity",
+      "compatible_series": "CLOUDLINE, AIRLIFT, CLOUDWAY",
+      "compatible_model_examples": "CLOUDLINE T6, CLOUDLINE T8, AIRLIFT S6",
+      "compatibility_level": "full",
+      "connector_or_protocol": "UIS / Molex",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": "4-Pin Molex to UIS adapter included in kit for older Molex-connector fan models",
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://acinfinity.com/controller-63-wireless-remote-fan-controller/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Wireless RF remote only (433 MHz); manual 10-speed PWM control; no temperature/humidity automation; no app connectivity; Molex-to-UIS adapter included for older fan models; each fan requires its own receiver (sold separately)"
+    },
+    {
+      "controller_model": "AC Infinity Controller 63",
+      "compatible_product_category": "circulation_fan",
+      "compatible_brand": "AC Infinity",
+      "compatible_series": "CLOUDLIFT",
+      "compatible_model_examples": "CLOUDLIFT S4, CLOUDLIFT W6",
+      "compatibility_level": "full",
+      "connector_or_protocol": "UIS / Molex",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://acinfinity.com/controller-63-wireless-remote-fan-controller/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Manual speed control only; no automation; CLOUDRAY clip fans are NOT listed as compatible with Controller 63"
+    }
+  ]
+}

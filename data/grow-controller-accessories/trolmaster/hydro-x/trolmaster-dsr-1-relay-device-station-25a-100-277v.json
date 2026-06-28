@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster DSR-1 Relay Device Station 25A (100-277V)",
+  "type": "relay_module",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/DSR-1",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "High-current 25A relay for heavy loads (100-277V). Compatible with Hydro-X, Aqua-X, Carbon-X, and Green-X systems"
+}

@@ -1,0 +1,59 @@
+{
+  "controller_model": "GSE Timer Box",
+  "compatible_devices": [
+    {
+      "controller_model": "GSE Timer Box",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "HPS 600W, Metal Halide 400W/600W, CDM/CMH 315W",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (230V mains, contactor-switched)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://hullhydroponics.co.uk/products/gse-timer-box-iii-12x-600w-heating",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Primary designed use case. Contactor-based switching accommodates high inrush currents of HPS/MH ballasts. Models range from 4x600W to 12x600W (Timer Box I through III) and 8x600W (Timer Box IV). Uses Grasslin mechanical timer with 36h battery backup. Any brand HPS or MH ballast with standard Schuko plug is compatible."
+    },
+    {
+      "controller_model": "GSE Timer Box",
+      "compatible_product_category": "led_grow_light",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "partial",
+      "connector_or_protocol": "Schuko outlet (230V mains); 0-10V or PWM (Timer Box IV only)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": "Timer Box IV: temperature-triggered dimming, sunrise/sunset simulation via 0-10V or PWM output",
+      "source_url": "https://www.led-grower.eu/produkt-gse-timer-box-iv-8x600w-heating-230v-10a/",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Timer Box I/II/III: on/off scheduling via Schuko sockets only, no dimming. Timer Box IV adds a 0-10V or PWM dimming output for compatible LED drivers; dims lamps when temperature rises and enables sunrise/sunset profiles. Only LEDs with 0-10V or PWM dimming input benefit from the dimming feature on Timer Box IV."
+    },
+    {
+      "controller_model": "GSE Timer Box",
+      "compatible_product_category": "heater",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "limited",
+      "connector_or_protocol": "Schuko outlet (230V mains, inverted timer output)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.amazon.com/GSE-Timer-Box-Watt-Heating/dp/B08X3L954P",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Dedicated heating socket on Timer Box II, III, IV models (max 2400W). Activates automatically when grow lights switch off — purely time-inverted, no temperature sensor input. Provides basic dark-period heating but does not regulate to a target temperature. Any mains heater up to 2400W is compatible."
+    }
+  ]
+}

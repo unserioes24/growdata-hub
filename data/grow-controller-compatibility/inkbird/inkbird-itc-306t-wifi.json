@@ -1,0 +1,23 @@
+{
+  "controller_model": "Inkbird ITC-306T-WIFI",
+  "compatible_devices": [
+    {
+      "controller_model": "Inkbird ITC-306T-WIFI",
+      "compatible_product_category": "heater",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Inkbird INK-HM20W heat mat, ceramic space heater, fan heater (Heizlüfter)",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (EU version)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": "INKBIRD app (iOS/Android)",
+      "ai_feature_scope": "day/night temperature schedule (two setpoints in 24h), high/low temp alarm, remote monitoring and adjustment via app, temperature history graph",
+      "source_url": "https://www.inkbird.com/products/wi-fi-temperature-controller-itc-306t-wifi",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Heating mode ONLY — no cooling function. Identical hardware function to ITC-306T plus 2.4GHz WiFi (no 5GHz support). Both outlets are heating-only relays. Max load 10A / 100-240V AC. EU version has Schuko outlets. Device must have simple mechanical on/off switch."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "controller_model": "Inkbird ICC-500T",
+  "compatible_devices": [
+    {
+      "controller_model": "Inkbird ICC-500T",
+      "compatible_product_category": "co2_generator",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Titan Controls Ares 2 CO2 generator, CO2 tank with AC solenoid regulator, natural gas CO2 burners",
+      "compatibility_level": "full",
+      "connector_or_protocol": "AC power outlet (100–240VAC 50/60Hz 10A max)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": "programmable CO2 setpoint (PPM), high/low CO2 concentration alarm, CO2 sensor calibration",
+      "source_url": "https://www.inkbird.com/products/programmable-co-controller-icc-500t",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "WORK1 relay activates CO2 source when measured CO2 drops below setpoint minus hysteresis; compatible with any AC-powered CO2 generator or tank solenoid; includes NDIR S01 sensor (120s response time); available in US/EU/UK/AU plug versions"
+    },
+    {
+      "controller_model": "Inkbird ICC-500T",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "AC power outlet (100–240VAC 50/60Hz 10A max)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.inkbird.com/products/programmable-co-controller-icc-500t",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "WORK2 relay activates exhaust fan when CO2 rises above setpoint plus hysteresis to vent excess CO2; on/off control only, no speed modulation; any AC-powered inline or exhaust fan up to 10A; no connectivity, standalone unit"
+    }
+  ]
+}

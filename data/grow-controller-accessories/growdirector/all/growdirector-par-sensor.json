@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector PAR Sensor",
+  "type": "light_sensor",
+  "price_amount": 1019,
+  "price_currency": "USD",
+  "source_url": "https://growdirector.com/shop/par/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "2m (6.5ft) cable; spectral range 400-750 nm ±5 nm; measures photosynthetically active radiation (PPFD); connects to SensorDirector; price from US retailer FarmTek"
+}

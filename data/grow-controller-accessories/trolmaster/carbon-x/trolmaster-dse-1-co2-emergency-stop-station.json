@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Carbon-X",
+  "name": "TrolMaster DSE-1 CO2 Emergency Stop Station",
+  "type": "relay_module",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "120V controlled outlet that powers CO2 solenoid valve during normal operation; shuts off CO2 if high CO2 or fault is detected"
+}

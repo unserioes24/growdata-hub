@@ -1,0 +1,12 @@
+{
+  "brand": "Spider Farmer",
+  "compatible_series": "GGS",
+  "name": "Spider Farmer GGS 3-in-1 Soil Sensor Pro (3pcs)",
+  "type": "soil_sensor",
+  "price_amount": 75.99,
+  "price_currency": "EUR",
+  "source_url": "https://www.spider-farmer.com/products/3-in-1-soil-sensor-pro-monitoring-soil-ec-temperature-moisture/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Pack of 3 sensors; each measures soil moisture (VWC), EC, and temperature via stainless steel probes. RJ12-connected to GGS system. Supports drip irrigation scheduling. Up to 6 units can connect to one GGS system. US price $65.99."
+}

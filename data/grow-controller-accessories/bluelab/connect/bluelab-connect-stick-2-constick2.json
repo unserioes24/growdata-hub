@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "Connect",
+  "name": "Bluelab Connect Stick 2 (CONSTICK2)",
+  "type": "wifi_adapter",
+  "price_amount": 172,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-connect-stick-2",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "USB wireless receiver for Bluelab Connect devices (Guardian Monitor Connect, Pro Controller Connect, etc.). Enables wireless data logging to Bluelab Connect Software. One stick can receive from up to 50 Connect devices."
+}

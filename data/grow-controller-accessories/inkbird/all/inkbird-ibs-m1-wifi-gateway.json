@@ -1,0 +1,12 @@
+{
+  "brand": "Inkbird",
+  "compatible_series": "all",
+  "name": "INKBIRD IBS-M1 WiFi Gateway",
+  "type": "wifi_adapter",
+  "price_amount": 49.99,
+  "price_currency": "EUR",
+  "source_url": "https://www.amazon.de/-/en/Inkbird-WiFi-Gateway/dp/B0BTBPD192",
+  "source_type": "marketplace",
+  "source_date": "2026-06-28",
+  "notes": "Bridges up to 50 Inkbird Bluetooth/wireless sensors (IBS-TH1, IBS-TH2, IBS-TH2 Plus, ITH-20R, IBS-P01B, etc.) to WiFi for remote monitoring via Inkbird app. Useful for extending grow-room sensor reach to phone/cloud. EUR price from EU store; confirmed on Amazon.de."
+}

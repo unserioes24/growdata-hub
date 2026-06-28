@@ -1,0 +1,12 @@
+{
+  "brand": "VIVOSUN",
+  "compatible_series": "GrowHub",
+  "name": "VIVOSUN 4-in-1 Sensor, Temperature and Humidity Monitoring with CO2 and Light Detection, CO2 Data VPD Tracking for Indoor Growing, Compatible with GrowHub E42A+",
+  "type": "co2_sensor",
+  "price_amount": 49.99,
+  "price_currency": "USD",
+  "source_url": "https://www.amazon.com/VIVOSUN-Controller-Environmental-WiFi-Controller-Supports/dp/B0GXFB1ZMR",
+  "source_type": "marketplace",
+  "source_date": "2026-06-28",
+  "notes": "Combined CO2, temperature, humidity and light (PAR/lux) sensor; plugs into GrowHub E42A+ (NOT compatible with older E42); not found on Amazon.de as of search date; Amazon.com ASIN B0GXFB1ZMR"
+}

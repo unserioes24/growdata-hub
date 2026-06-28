@@ -1,0 +1,12 @@
+{
+  "brand": "SMSCOM",
+  "compatible_series": "Twincontroller, SPC",
+  "name": "SMSCOM Temperature Sensor 5m",
+  "type": "replacement_probe",
+  "price_amount": 16.5,
+  "price_currency": "GBP",
+  "source_url": "https://www.hydrostore.co.uk/product/smscom-temperature-sensor-5m/",
+  "source_type": "retailer",
+  "source_date": "2026-06-28",
+  "notes": "Extended replacement NTC probe for Twincontroller MK2 and SPC controllers; standard included probe is 2m; 5m version allows placement further from controller."
+}

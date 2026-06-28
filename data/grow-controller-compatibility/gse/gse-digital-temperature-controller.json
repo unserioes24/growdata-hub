@@ -1,0 +1,23 @@
+{
+  "controller_model": "GSE Digital Temperature Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "GSE Digital Temperature Controller",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Prima Klima 125L AC, Vents TT 125, Wallair N-60",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.ledgrowshop.eu/fan-regulations/gse-digital-temperature-controller-and-min--fan-speed/",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "TRIAC phase-cut speed control via 1 Schuko outlet; temperature-dependent speed modulation 20-100%; adjustable minimum speed (off, 20-100%); temperature setpoint 20-30 °C; 4 m digital temp probe (extendable to 50 m); IP54; model variants: 1A/200W, 2.5A/600W, 8A/1840W; NOT compatible with EC fans (no 0-10 V or PWM output); NOT compatible with Soler & Palau Silent TD series (requires dedicated step transformer); single fan output only"
+    }
+  ]
+}

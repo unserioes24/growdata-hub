@@ -1,0 +1,59 @@
+{
+  "controller_model": "Autopilot PX2 Advanced Digital Lighting Controller (APDPX2)",
+  "compatible_devices": [
+    {
+      "controller_model": "Autopilot PX2 Advanced Digital Lighting Controller (APDPX2)",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Phantom (Hydrofarm)",
+      "compatible_series": "Phantom II HPS, Phantom CMH, Phantom Core",
+      "compatible_model_examples": "PHPNB1000 (1000W HPS), PHBC3151 (315W CMH), PHMH630 (630W CMH)",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Proprietary locking mini 3P M-RJ 6P RF-shielded data cable",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": "Photoperiod scheduling, PPF dimming (wattage or % per zone), sunrise/sunset ramp simulation, temperature-based auto-dimming, over-temp emergency shutdown",
+      "source_url": "https://growershouse.com/products/autopilot-px2-advanced-digital-lighting-controller",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Only works with 'controllable' Phantom and Core fixtures; non-controllable versions are not compatible. Cables included in box. Supports up to 256 HID fixtures per zone (512 total). Checkerboarding HPS+CMH across zones is supported."
+    },
+    {
+      "controller_model": "Autopilot PX2 Advanced Digital Lighting Controller (APDPX2)",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Hydrofarm Core",
+      "compatible_series": "Core Digital HID",
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "Proprietary locking mini 3P M-RJ 6P RF-shielded data cable",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": "Photoperiod scheduling, PPF dimming, sunrise/sunset simulation, temperature-based auto-dimming, over-temp shutdown",
+      "source_url": "https://growershouse.com/products/autopilot-px2-advanced-digital-lighting-controller",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Manufacturer explicitly lists 'controllable Phantom or Core HID fixtures' as compatible; specific Core model numbers not publicly detailed. Same proprietary RJ6P cable used as for Phantom fixtures."
+    },
+    {
+      "controller_model": "Autopilot PX2 Advanced Digital Lighting Controller (APDPX2)",
+      "compatible_product_category": "led_grow_light",
+      "compatible_brand": "PHOTOBIO (Hydrofarm)",
+      "compatible_series": "PHOTOBIO TX, PHOTOBIO MX, PHOTOBIO TX2, PHOTOBIO MX2, PHOTOBIO X, PHOTOBIO T, PHOTOBIO T Duo",
+      "compatible_model_examples": "PHOTOBIO TX 680W, PHOTOBIO MX2 680W, PHOTOBIO TX2 800W",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Proprietary locking mini 3P M-2P M RF-shielded cable; optional 0-10V cable kit (CHC882000B) for X/M/T/T Duo models",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": "PHOTO LOC 0-10V Cable Kit CHC882000B required for PHOTOBIO X, M, T, T Duo series (included or sold separately)",
+      "app_ecosystem": null,
+      "ai_feature_scope": "Analog dimming (0-10V), photoperiod scheduling, PPF scheduling, sunrise/sunset simulation, temperature-based auto-dimming",
+      "source_url": "https://hydrobuilder.com/products/photobio-tx-680-watt-s4-full-spectrum-led-grow-light",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "PX2 supports up to 50 analog LED fixtures per zone (100 total). PHOTOBIO fixtures confirm 'Autopilot PX series (PX2 and above)' compatibility. Two cable types shipped in box; additional kit needed for X/M/T/T Duo analog models."
+    }
+  ]
+}

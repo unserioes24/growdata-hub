@@ -1,0 +1,59 @@
+{
+  "controller_model": "Cli-Mate Humi Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "Cli-Mate Humi Controller",
+      "compatible_product_category": "humidifier",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "AC socket (Schuko, 230V)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://cli-mate.nl/en/producten/easy-simple/humi-controller/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "On/off relay control via 230V socket output. Activates humidifier when RH drops below setpoint. Humicon-2020 series. Max 16A (~3680W). 5m humidity probe. RH range 0–99%. No fan speed control, purely on/off switching."
+    },
+    {
+      "controller_model": "Cli-Mate Humi Controller",
+      "compatible_product_category": "dehumidifier",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "AC socket (Schuko, 230V)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://cli-mate.nl/en/producten/easy-simple/humi-controller/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "On/off relay control. Activates dehumidifier when RH exceeds setpoint. Manufacturer also states a heater can be connected in dehumidifier mode to lower RH via warming. Max 16A. Single 230V socket output shared between humidifier and dehumidifier mode (switch selects mode)."
+    },
+    {
+      "controller_model": "Cli-Mate Humi Controller",
+      "compatible_product_category": "heater",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "limited",
+      "connector_or_protocol": "AC socket (Schuko, 230V)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://cli-mate.nl/en/producten/easy-simple/humi-controller/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "C",
+      "notes": "Heater can be connected in dehumidifier mode as an alternative dehumidification method (heat lowers relative humidity). Control is humidity-based on/off only, not temperature-based. Not intended as a primary heater controller."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector Air Temperature, Humidity & VPD Sensor",
+  "type": "temp_humidity_sensor",
+  "price_amount": 50.07,
+  "price_currency": "USD",
+  "source_url": "https://growdirector.com/shop/temperature-humidity/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "2m (6.5ft) cable; temp -40 to +80C, humidity 0-100% RH, ±0.3C / ±2% RH accuracy; connects to SensorDirector; also listed on Amazon.com ASIN B0CK4TV3XH but not on Amazon.de"
+}

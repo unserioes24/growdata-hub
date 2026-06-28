@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Aqua-X",
+  "name": "TrolMaster WCS-1 Water Content Sensor",
+  "type": "soil_sensor",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/WCS-1",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Substrate volumetric water content (VWC) sensor for Aqua-X irrigation system; prong-style inserted into grow medium"
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster Delta-1 VFD Compact Driver for AC Motors",
+  "type": "expansion_module",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Pre-configured Delta ME300 VFD used with VFD-1 module; controls 3-phase AC fan motors. RJ45 cable included. Available as add-on to VFD-1"
+}

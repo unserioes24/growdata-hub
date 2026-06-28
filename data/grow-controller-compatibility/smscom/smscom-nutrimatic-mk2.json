@@ -1,0 +1,23 @@
+{
+  "controller_model": "SMSCOM NutriMatic Mk2",
+  "compatible_devices": [
+    {
+      "controller_model": "SMSCOM NutriMatic Mk2",
+      "compatible_product_category": "pump",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any 230V single-phase irrigation or NFT submersible pump up to 2000W",
+      "compatible_model_examples": "Nutriculture Wilma drip pump, Atami Wilma pump, standard NFT circulation pumps",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (EU) / UK socket (UK version)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.2s-international.com/shop/smscom/smscom-nutrimatic-mk2/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Pre-programmed timer with 19 drip feeds per 12h or 18h light cycle; feed duration adjustable 0–99 seconds per dose. Controls any single-phase 230V pump up to 2000W (approx. 8.7A) via timed on/off. Must be powered in sync with the grow light (light on = NutriMatic on; light off = NutriMatic off and reset). Not suitable for precise mL-per-dose dosing pumps — controls pump runtime in seconds only, with no flow-rate awareness."
+    }
+  ]
+}

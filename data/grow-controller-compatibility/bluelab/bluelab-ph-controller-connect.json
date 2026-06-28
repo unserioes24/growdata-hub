@@ -1,0 +1,23 @@
+{
+  "controller_model": "Bluelab pH Controller Connect",
+  "compatible_devices": [
+    {
+      "controller_model": "Bluelab pH Controller Connect",
+      "compatible_product_category": "sensor",
+      "compatible_brand": "Bluelab",
+      "compatible_series": null,
+      "compatible_model_examples": "Bluelab pH Probe",
+      "compatibility_level": "full",
+      "connector_or_protocol": "BNC",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": "Bluelab Connect",
+      "ai_feature_scope": null,
+      "source_url": "https://support.bluelab.com/bluelab-ph-controller",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Identical pH dosing logic to the base Bluelab pH Controller. Adds Bluelab Connect Stick (USB dongle, sold separately) enabling PC data logging, remote settings adjustment, and high/low alarm notifications via the Bluelab Connect desktop and mobile app. Reservoir up to 200 US gal / 760 L."
+    }
+  ]
+}

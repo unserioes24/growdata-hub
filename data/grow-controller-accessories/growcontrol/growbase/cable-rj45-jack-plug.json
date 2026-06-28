@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase",
+  "name": "Cable RJ45-jack plug",
+  "type": "adapter",
+  "price_amount": 18,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/en_GB/shop/category/accessories-3",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Adapter cable from RJ45 to 3.5mm jack plug for connecting EC fans with jack socket input to GrowBase controller"
+}

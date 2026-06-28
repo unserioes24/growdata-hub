@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector CO2 Sensor",
+  "type": "co2_sensor",
+  "price_amount": 420,
+  "price_currency": "USD",
+  "source_url": "https://growdirector.com/shop/co2/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "2m (6.5ft) cable; NDIR measurement; range 0-5000 ppm, accuracy ±30 ppm ±3%; connects to SensorDirector; US retailer sale price ($650 regular)"
+}

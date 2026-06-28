@@ -1,0 +1,12 @@
+{
+  "brand": "SMSCOM",
+  "compatible_series": "all",
+  "name": "SMSCOM Temperature Protector 16A",
+  "type": "relay_module",
+  "price_amount": 59.99,
+  "price_currency": "EUR",
+  "source_url": "https://www.amazon.de/SMSCOM-Temperatur-Protector-Thermostat-%C3%9Cberhitzungsschutz/dp/B00P7TV83W",
+  "source_type": "marketplace",
+  "source_date": "2026-06-28",
+  "notes": "Failsafe overheat protection: automatically cuts power to connected grow lights when room temperature exceeds set threshold. Adjustable delay timer prevents hot-restrike lamp damage. Max 16A/3600W; includes 2.5m NTC sensor. Manual reset required."
+}

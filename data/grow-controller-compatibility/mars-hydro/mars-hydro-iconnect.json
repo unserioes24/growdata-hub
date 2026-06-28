@@ -1,0 +1,59 @@
+{
+  "controller_model": "Mars Hydro iConnect",
+  "compatible_devices": [
+    {
+      "controller_model": "Mars Hydro iConnect",
+      "compatible_product_category": "led_grow_light",
+      "compatible_brand": "Mars Hydro",
+      "compatible_series": "FC series, FC-E series, SP series, TS series",
+      "compatible_model_examples": "FC-E3000, FC3000 EVO, SP3000, TS3000",
+      "compatibility_level": "full",
+      "connector_or_protocol": "USB + RJ12 dimmer port",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": "MarsPro app",
+      "ai_feature_scope": "VPD monitoring, PPFD auto-mode, sunrise/sunset simulation, custom schedule, dimming 0-100%",
+      "source_url": "https://marshydro.eu/products/iconnectu-smart-controller/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "2024+ smart versions with USB dimmer port required; older FC/FC-E/TS with manual-only dimmer knob are not compatible; one iConnectu per light unit; multiple lights manageable via MarsPro app grouping; RJ12 expansion port enables ecosystem connectivity"
+    },
+    {
+      "controller_model": "Mars Hydro iConnect",
+      "compatible_product_category": "ec_fan",
+      "compatible_brand": "Mars Hydro",
+      "compatible_series": "iFresh series",
+      "compatible_model_examples": "iFresh 4\" (100mm), iFresh 6\" (150mm)",
+      "compatibility_level": "partial",
+      "connector_or_protocol": "RJ12",
+      "requires_adapter_or_module": true,
+      "required_adapter_or_module": "iFresh MarsPro Add-On Pack (includes iConnectu + temperature sensor)",
+      "app_ecosystem": "MarsPro app",
+      "ai_feature_scope": "temperature/humidity auto mode (25% default, auto-adjusts at trigger point), wind speed adjustment 25-100%, timer, cycle mode",
+      "source_url": "https://www.amazon.com/MARS-HYDRO-Temperature-Controller-Environmental/dp/B0DZCHSL94",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "iConnectu plugs into iFresh fan's RJ12 expansion port; Add-On Pack bundles iConnectu + temperature sensor for environmental automation; no third-party EC fan support; only Mars Hydro iFresh fans confirmed"
+    },
+    {
+      "controller_model": "Mars Hydro iConnect",
+      "compatible_product_category": "sensor",
+      "compatible_brand": "Mars Hydro",
+      "compatible_series": "MarsPro sensor series",
+      "compatible_model_examples": "PPFD sensor, CO2 sensor, soil sensor",
+      "compatibility_level": "partial",
+      "connector_or_protocol": "RJ12",
+      "requires_adapter_or_module": true,
+      "required_adapter_or_module": "optional sensor kit (sold separately)",
+      "app_ecosystem": "MarsPro app",
+      "ai_feature_scope": "PPFD, CO2, and soil monitoring to enable environmental automation for connected lights and fans",
+      "source_url": "https://marshydro.eu/products/iconnectu-smart-controller/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Sensors are optional add-ons, not included with base iConnectu; temperature sensor included in iFresh MarsPro Add-On Pack; enables richer automation triggers"
+    }
+  ]
+}

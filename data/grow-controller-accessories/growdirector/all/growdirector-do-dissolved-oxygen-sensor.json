@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector DO (Dissolved Oxygen) Sensor",
+  "type": "sensor_probe",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://growdirector.com/do-and-orp-sensors-for-professional-greenhouses/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "3m (10ft) cable; range 0-20 mg/L DO, temp 0-50C; connects to HydroDirector; no dedicated shop page found but confirmed available via retailer listings"
+}

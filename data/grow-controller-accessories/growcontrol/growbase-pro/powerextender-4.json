@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase Pro",
+  "name": "PowerExtender 4+",
+  "type": "power_module",
+  "price_amount": 429,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/en_GB/shop/powerextender-4-394",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Adds 4 controlled sockets to GrowBase Pro (2x 2300W with inrush current limiter + 0-10V dimming output + DC output); up to 4 units can be chained for 25 total outputs; IP42; connects via RJ45 cable (included); GrowBase Pro only"
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "TechGrow",
+  "compatible_series": null,
+  "name": "TechGrow S-2 CO2 Sensor (2000ppm)",
+  "type": "co2_sensor",
+  "price_amount": 263.55,
+  "price_currency": "EUR",
+  "source_url": "https://www.techgrow.nl/s-2-co2-sensor-2-000ppm.html",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "NDIR CO2 sensor, 30ppm accuracy, built-in light sensor for day/night auto-switching; includes 5m UTP cable; compatible with T-Nano, T-Micro, T-1 Pro"
+}

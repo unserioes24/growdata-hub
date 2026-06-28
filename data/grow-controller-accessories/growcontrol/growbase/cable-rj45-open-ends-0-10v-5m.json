@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase",
+  "name": "Cable RJ45-open ends 0-10V 5m",
+  "type": "controller_cable",
+  "price_amount": 22,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/en_GB/shop/category/accessories-3",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Cable with RJ45 on controller end and bare wire ends for connecting LED fixtures with 0-10V or 1-10V dimming input; enables sunrise/sunset function; 5m length"
+}

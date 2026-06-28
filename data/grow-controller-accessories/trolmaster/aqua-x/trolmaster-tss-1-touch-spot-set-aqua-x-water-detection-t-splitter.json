@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Aqua-X",
+  "name": "TrolMaster TSS-1 Touch Spot Set (Aqua-X Water Detection T-Splitter)",
+  "type": "sensor_probe",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/TSS-1",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Additional water leak detection spot with T-splitter for WD-1; allows multiple detection points from a single WD-1 module"
+}

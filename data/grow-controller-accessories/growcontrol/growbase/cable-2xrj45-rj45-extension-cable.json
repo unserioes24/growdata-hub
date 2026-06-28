@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase",
+  "name": "Cable 2xRJ45 (RJ45 Extension Cable)",
+  "type": "extension_cable",
+  "price_amount": 2.4,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/en_GB/shop/category/accessories-3",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "RJ45 (male-male) extension cable for connecting sensors, fans, or lights to the controller; compatible with 0-10V and 1-10V systems; available in multiple lengths (0.5m-10m); price shown for 0.5m version"
+}

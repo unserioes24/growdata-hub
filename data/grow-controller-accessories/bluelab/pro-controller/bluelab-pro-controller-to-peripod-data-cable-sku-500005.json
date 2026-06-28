@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "Pro Controller",
+  "name": "Bluelab Pro Controller to PeriPod Data Cable (SKU 500005)",
+  "type": "controller_cable",
+  "price_amount": 32,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-pro-controller-to-peripod-data-cable",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "1m M12 8-pin to M12 8-pin proprietary data cable connecting Pro Controller to PeriPod M3/M4/L3 dosing units."
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster OM-8 Dry Contact Board (8-Point for Hydro-X Pro / Aqua-X Pro)",
+  "type": "expansion_module",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/OM-8",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "8-channel dry contact output board for HCS-2 Hydro-X Pro and NFS-2 Aqua-X Pro; up to 12A per contact; mounts inside SCC cabinet"
+}

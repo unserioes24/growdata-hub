@@ -1,0 +1,12 @@
+{
+  "brand": "GSE",
+  "compatible_series": "SGC",
+  "name": "SGC PH Acid Sensor",
+  "type": "ph_probe",
+  "price_amount": 99,
+  "price_currency": "EUR",
+  "source_url": "https://g-systems.eu/shop/product/sg14-sgc-ph-acid-sensor-1438",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "SG14; pH range 0–14, resolution 0.01 pH, accuracy ±0.01 pH; includes calibration solutions (pH 4.01 and 7.01); 1m BNC coaxial + 4m waterproof PU cable; calibration via SGC software"
+}

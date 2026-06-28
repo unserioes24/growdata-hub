@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase",
+  "name": "PresSense",
+  "type": "sensor_probe",
+  "price_amount": 229,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/en_GB/shop/gc1122-pressense-95",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Negative pressure/differential pressure sensor; measuring range ±200 Pa; includes 5m RJ45 cable and 4m measurement hose; enables automatic intake fan speed regulation; IP40; Made in Germany"
+}

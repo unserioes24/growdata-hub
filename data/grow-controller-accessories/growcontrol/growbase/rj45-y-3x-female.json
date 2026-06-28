@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase",
+  "name": "RJ45-Y 3x female",
+  "type": "splitter",
+  "price_amount": 2.8,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/shop/gc0018-rj45-y-3x-buchse-511",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "RJ45 Y-adapter with 3 female ports; allows connecting multiple dimmable LEDs or multiple EC fans to one controller output (0-10/1-10V or EC fan outputs)"
+}

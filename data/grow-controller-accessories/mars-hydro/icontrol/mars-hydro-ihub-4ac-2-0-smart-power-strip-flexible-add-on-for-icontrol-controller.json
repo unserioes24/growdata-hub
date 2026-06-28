@@ -1,0 +1,12 @@
+{
+  "brand": "Mars Hydro",
+  "compatible_series": "iControl",
+  "name": "Mars Hydro iHub-4AC 2.0 Smart Power Strip – Flexible Add-On for iControl Controller",
+  "type": "expansion_module",
+  "price_amount": 59.99,
+  "price_currency": "EUR",
+  "source_url": "https://marshydro.eu/products/ihub-4ac-2-0-smart-power-strip/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "4-outlet smart power strip expansion module; requires iControl controller to access smart features; daisy-chainable up to 40 units; supports Manual, Timer, Cycle, and Environmental modes; connects via RJ12"
+}

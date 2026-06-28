@@ -1,0 +1,12 @@
+{
+  "brand": "GSE",
+  "compatible_series": "SGC",
+  "name": "SGC Switch - Signal Input",
+  "type": "adapter",
+  "price_amount": 34.9,
+  "price_currency": "EUR",
+  "source_url": "https://g-systems.eu/shop/product/sg17-sgc-switch-signal-input-1443",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "SG17; digital I/O input module for connecting external dry-contact switches, level switches, magnetic contacts, and alarm sensors to SGC; 2-wire terminal block; 4m PU cable"
+}

@@ -1,0 +1,41 @@
+{
+  "controller_model": "GrowControl FanBase EC+",
+  "compatible_devices": [
+    {
+      "controller_model": "GrowControl FanBase EC+",
+      "compatible_product_category": "ec_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "PrimaKlima EC-Blue Line 4400-4800 m³/h, PrimaKlima Whisperblower EC-TC, PrimaKlima EC-Blue 580-1450 m³/h",
+      "compatibility_level": "full",
+      "connector_or_protocol": "0-10V / RJ45",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://growcontrol.de/en_GB/shop/gc1550-fanbase-ec-4",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Controls any 0-10V voltage-controlled EC fan via two independent RJ45 channels (intake + exhaust). USB-powered (5V/1A). No Schuko sockets — only EC fans supported. PrimaKlima explicitly listed as accessories."
+    },
+    {
+      "controller_model": "GrowControl FanBase EC+",
+      "compatible_product_category": "sensor",
+      "compatible_brand": "GrowControl",
+      "compatible_series": null,
+      "compatible_model_examples": "GrowControl temp/humidity sensor (included), PresSense negative pressure sensor (optional)",
+      "compatibility_level": "full",
+      "connector_or_protocol": "RJ45 (GrowControl proprietary)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://growcontrol.de/en_GB/shop/gc1550-fanbase-ec-4",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Temp/humidity sensor with 5 m cable included. PresSense negative pressure sensor optional. GrowControl ecosystem sensors only."
+    }
+  ]
+}

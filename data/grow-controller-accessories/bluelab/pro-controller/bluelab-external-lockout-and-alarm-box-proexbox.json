@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "Pro Controller",
+  "name": "Bluelab External Lockout and Alarm Box (PROEXBOX)",
+  "type": "expansion_module",
+  "price_amount": 83,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-external-lockout-and-alarm-box",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Expansion box for Pro Controller. Connects external float switches or irrigation controllers to trigger dosing lockout. Supports 'normally open' and 'normally closed' switches. Includes audible alarm output."
+}

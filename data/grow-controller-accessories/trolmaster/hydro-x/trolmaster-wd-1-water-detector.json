@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster WD-1 Water Detector",
+  "type": "sensor_probe",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/WD-1",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Floor/surface water leak detector. Up to 2 units can be daisy-chained. Compatible with TSS-1 touch spot accessories"
+}

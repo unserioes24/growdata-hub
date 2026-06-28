@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster DSD-1 Dry Contact Station",
+  "type": "relay_module",
+  "price_amount": 94.55,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/DSD-1",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Dry contact (N/O and N/C) relay for controlling devices requiring relay activation. EUR price from lientec-led.com. Confirmed on amazon.de"
+}

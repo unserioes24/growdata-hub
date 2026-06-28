@@ -1,0 +1,23 @@
+{
+  "controller_model": "SMSCOM SPC Mk2",
+  "compatible_devices": [
+    {
+      "controller_model": "SMSCOM SPC Mk2",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "RAM RVK series, Systemair RVK-A, Rhino Pro inline fans",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://2s-international.com/wp-content/uploads/2020/05/SMSCOM-MANUAL-SPC-MK2.pdf",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Controls 2 standard AC fans (2 Schuko power sockets). Fully electronic continuous 0–100% speed control (dynamic range 0.5–8A or 0.5–16A). Available 8A and 16A variants. Expandable with up to 5 SPC Slave Mk2 units via proprietary link cable, each adding 2 more AC fan outputs. No outputs for lights, humidifiers, CO2, heaters, or any device other than AC fans. No PRO/light-sensor humidity function. EC fans incompatible; Cal.Min potentiometer allows trimming minimum speed for compatibility with different AC fan motors."
+    }
+  ]
+}

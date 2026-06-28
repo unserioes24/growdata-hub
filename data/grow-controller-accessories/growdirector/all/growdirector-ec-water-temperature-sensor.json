@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector EC & Water Temperature Sensor",
+  "type": "ec_probe",
+  "price_amount": 175,
+  "price_currency": "USD",
+  "source_url": "https://growdirector.com/shop/ec/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Industrial grade electrode cable 3m (10ft); EC range 0-10 ms/cm, temp 0-70C; combined EC and water temperature probe; connects to HydroDirector; US retailer sale price ($260 regular)"
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster SPH-1 RJ12 Splitter Hub (8-Port)",
+  "type": "splitter",
+  "price_amount": 35.95,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/SPH-1",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "8-port RJ12 hub replacing daisy-chain Y-splitters for clean installation. Includes 16ft RJ12 cable and 12VDC power supply. EUR price from lientec-led.com"
+}

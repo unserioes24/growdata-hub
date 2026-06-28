@@ -1,0 +1,23 @@
+{
+  "controller_model": "Cli-Mate Twin Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "Cli-Mate Twin Controller",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://cli-mate.nl/en/producten/hybride-multifunctional/twin-controller/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Two independent 220/230V AC outlets: one for intake fan, one for exhaust fan. Speed regulated continuously and proportionally by temperature setpoint. Uses AC voltage regulation (phase-cutting); EC fans requiring 0-10V or PWM signals are not compatible. Available in 4+4A (8A total) and 12+12A (24A total). Temperature range 5–55 °C, IP44. Negative-pressure balance adjustable via minimum-speed knob."
+    }
+  ]
+}

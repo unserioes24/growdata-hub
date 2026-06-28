@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase",
+  "name": "CO2-Armatur",
+  "type": "expansion_module",
+  "price_amount": 279,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/en_GB/shop/product/co2-armatur-6",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Fully assembled CO2 solenoid valve + integrated pressure reducer for CO2 cylinders; W 21.8x1/14\" (DIN 477 #6) connection; requires separate GrowBase controller, CarbSense CO2 sensor, and CO2 cylinder; 230V; ~5-20 L/min flow rate"
+}

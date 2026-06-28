@@ -1,0 +1,12 @@
+{
+  "brand": "GSE",
+  "compatible_series": "SGC",
+  "name": "SGC Light Sensor",
+  "type": "light_sensor",
+  "price_amount": 39,
+  "price_currency": "EUR",
+  "source_url": "https://g-systems.eu/shop/product/sg13-sgc-light-sensor-1440",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "SG13; measures ambient artificial light (0–100%); aluminum tube encapsulation; 4m PU cable with waterproof connector"
+}

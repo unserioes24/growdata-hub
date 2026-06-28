@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "all",
+  "name": "Bluelab pH Probe 5M (PROBPH5M)",
+  "type": "ph_probe",
+  "price_amount": 104,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-ph-probe-5m",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Same double-junction BNC pH probe as PROBPH but with 5m cable for hard-to-reach locations."
+}

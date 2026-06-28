@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster LMA-9 ThinkGrow Converter (0-10V to RS485)",
+  "type": "adapter",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Converts 0-10V dimming signal to RS485 digital signal, allowing third-party controllers to control ThinkGrow LEDs via LMA-14"
+}

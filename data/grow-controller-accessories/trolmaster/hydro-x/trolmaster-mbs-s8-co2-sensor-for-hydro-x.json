@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster MBS-S8 CO2 Sensor for Hydro-X",
+  "type": "co2_sensor",
+  "price_amount": 262.5,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/MBS-S8",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Daisy-chainable CO2 sensor for Hydro-X HCS-1 only. Includes RJ12 Y-splitter and 16ft cable. EUR price from lientec-led.com"
+}

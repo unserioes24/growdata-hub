@@ -1,0 +1,12 @@
+{
+  "brand": "SMSCOM",
+  "compatible_series": "Twincontroller Pro",
+  "name": "SMSCOM Twincontroller Pro Slave MK2 7A",
+  "type": "expansion_module",
+  "price_amount": 84.75,
+  "price_currency": "EUR",
+  "source_url": "https://www.eugardencenter.com/en/smscom-twincontroller-pro-slave-mk2-7a.html",
+  "source_type": "retailer",
+  "source_date": "2026-06-28",
+  "notes": "Expansion slave module for Twincontroller Pro MK2 7A master; max 7A/1600W; includes 5m NTC sensor and spare fuse. Supports optional light sensor."
+}

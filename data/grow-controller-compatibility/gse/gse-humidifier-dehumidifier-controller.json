@@ -1,0 +1,41 @@
+{
+  "controller_model": "GSE Humidifier/Dehumidifier Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "GSE Humidifier/Dehumidifier Controller",
+      "compatible_product_category": "humidifier",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (230V mains)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.led-grower.eu/gse-humidifier-dehumidifier-controller-10a/",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "On/off hygrostat switching via integrated mains socket (230V/50Hz). 10A model rated to 2300W; 15A model also available. Any mains-powered humidifier or fogger within amperage limit is compatible. Two separate sockets: one for humidifier, one for dehumidifier. Hysteresis adjustable +1% to +10%. Sensor cable 4m."
+    },
+    {
+      "controller_model": "GSE Humidifier/Dehumidifier Controller",
+      "compatible_product_category": "dehumidifier",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (230V mains)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.1-hydroponics.co.uk/closed-loop-horticulture/humidity-control/humidity-controllers-309/gse-15a-humidifier-dehumidifier-controller.html",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "On/off hygrostat switching via dedicated mains socket (230V/50Hz). 10A/15A rated. Any mains-powered dehumidifier within amperage limit is compatible. Hysteresis adjustable -1% to -10% for dehumidifier mode. Operates simultaneously with humidifier socket via two potentiometers. IP54 housing."
+    }
+  ]
+}

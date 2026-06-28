@@ -1,0 +1,12 @@
+{
+  "brand": "Spider Farmer",
+  "compatible_series": "GGS",
+  "name": "Spider Farmer S-Station Wi-Fi & Bluetooth Smart Plug",
+  "type": "smart_plug",
+  "price_amount": 29.99,
+  "price_currency": "USD",
+  "source_url": "https://www.spider-farmer.com/products/s-station-wifi-bluetooth-smart-plug/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Single-outlet smart plug for single-device automation within the Spider Farmer GGS app ecosystem. EU version is 220-240V 16A/3680W (ASIN B0FP529RR2). Does NOT connect via RJ12 to GGS Controller/AC5/AC10 power strips; works as companion device in the same app. US version is 15A/1875W ($29.99)."
+}

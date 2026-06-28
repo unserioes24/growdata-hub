@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase",
+  "name": "Cable RJ45-MountainAir 5m",
+  "type": "controller_cable",
+  "price_amount": 36,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/en_GB/shop/category/accessories-3",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Proprietary control cable for MountainAir EC fans; 5m length; connects to GrowBase controller RJ45 output"
+}

@@ -1,0 +1,59 @@
+{
+  "controller_model": "GSE GSE EC Fan Controller LCD",
+  "compatible_devices": [
+    {
+      "controller_model": "GSE GSE EC Fan Controller LCD",
+      "compatible_product_category": "ec_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "4-pole 3.5mm jack, 0-10V or PWM selectable",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": "day/night speed scheduling, temp/humidity auto-control, negative pressure monitoring, RPM readback",
+      "source_url": "https://www.1-hydroponics.co.uk/environmental-controls/fan-controllers/gse-ec-lcd-controller-for-2-fans.html",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "EC-only controller; no AC Schuko outlets; controls up to 2 EC fans via 4-pole 3.5mm jack; 2x 4m fan cables included; 0-10V or PWM selectable; 12VDC powered"
+    },
+    {
+      "controller_model": "GSE GSE EC Fan Controller LCD",
+      "compatible_product_category": "ec_fan",
+      "compatible_brand": "Systemair",
+      "compatible_series": "Revolution EC",
+      "compatible_model_examples": null,
+      "compatibility_level": "via_adapter",
+      "connector_or_protocol": "4-pole 3.5mm jack, 0-10V or PWM",
+      "requires_adapter_or_module": true,
+      "required_adapter_or_module": "male-to-male active EC cable",
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://ghedirect.co.uk/product/gas-ec5-ec-fan-controller/",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "C",
+      "notes": "Systemair Revolution EC fans use their own proprietary cable; active male-to-male EC cable bridges to 3.5mm jack; compatibility reported in grow community; verify with current Systemair documentation"
+    },
+    {
+      "controller_model": "GSE GSE EC Fan Controller LCD",
+      "compatible_product_category": "ec_fan",
+      "compatible_brand": "Prima Klima",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "via_adapter",
+      "connector_or_protocol": "4-pole 3.5mm jack, 0-10V or PWM",
+      "requires_adapter_or_module": true,
+      "required_adapter_or_module": "RJ45-to-3.5mm EC adapter cable",
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.bloomled.fr/en/rvk-vk-air-extractors/637-prima-klima-air-extractor-160mm-with-gse-controller-820m3-h-integrated-thermo-controller.html",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "C",
+      "notes": "Prima Klima EC fans use RJ45 natively; adapter cable required to bridge to 3.5mm jack; Prima Klima extractors have been paired with GSE controllers in product bundles"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "controller_model": "TechGrow Clima Control Eco",
+  "compatible_devices": [
+    {
+      "controller_model": "TechGrow Clima Control Eco",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Systemair RVK 100 A1, Vents TT 100, Blauberg Turbo 100",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/clima-control-eco-8a.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Temperature-only fan speed control via triac (8A fuse, 12A triac on standard model). Controls up to 2 fans. No humidity or CO2 monitoring. No heater relay. No external sensor port — uses pre-mounted 4.5m temperature probe only. Not compatible with any external sensors."
+    },
+    {
+      "controller_model": "TechGrow Clima Control Eco",
+      "compatible_product_category": "circulation_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/clima-control-eco-8a.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Triac-based Schuko outlets can power AC circulation fans within the 8A fuse limit. EC/PWM fans not compatible."
+    }
+  ]
+}

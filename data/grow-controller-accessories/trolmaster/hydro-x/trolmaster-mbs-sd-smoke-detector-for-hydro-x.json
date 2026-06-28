@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster MBS-SD Smoke Detector for Hydro-X",
+  "type": "sensor_probe",
+  "price_amount": 69.95,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/MBS-SD",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Daisy-chainable smoke detector module for Hydro-X systems. EUR price from lientec-led.com"
+}

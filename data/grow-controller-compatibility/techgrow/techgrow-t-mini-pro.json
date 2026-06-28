@@ -1,0 +1,23 @@
+{
+  "controller_model": "TechGrow T-Mini Pro",
+  "compatible_devices": [
+    {
+      "controller_model": "TechGrow T-Mini Pro",
+      "compatible_product_category": "co2_generator",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (230V relay, 8A)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/t-mini-pro-co2-controller.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Sole controllable output is the CO2 relay (8A rated, 4A fused). Controls CO2 generators or bottled CO2 with solenoid valve. Built-in CO2 and light sensors — no external sensor port. Has NO fan output; the internal fan is only for airflow across the built-in sensor, not for room ventilation control. No humidity or temperature relay outputs."
+    }
+  ]
+}

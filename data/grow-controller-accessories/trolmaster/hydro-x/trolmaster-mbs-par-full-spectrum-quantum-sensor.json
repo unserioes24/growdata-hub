@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster MBS-PAR Full Spectrum Quantum Sensor",
+  "type": "light_sensor",
+  "price_amount": 525.95,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/MBS-PAR",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "PAR/PPFD quantum sensor for precise light intensity measurement and auto-dimming. EUR price from lientec-led.com"
+}

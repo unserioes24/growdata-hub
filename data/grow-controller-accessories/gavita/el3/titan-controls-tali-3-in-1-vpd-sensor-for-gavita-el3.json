@@ -1,0 +1,12 @@
+{
+  "brand": "Gavita",
+  "compatible_series": "EL3",
+  "name": "Titan Controls Tali 3-in-1 VPD Sensor (for Gavita EL3)",
+  "type": "temp_humidity_sensor",
+  "price_amount": 159.5,
+  "price_currency": "USD",
+  "source_url": "https://www.bghydro.com/titan-controls-tali-3-in-1-vpd-sensor.html",
+  "source_type": "retailer",
+  "source_date": "2026-06-28",
+  "notes": "SKU HGC702000. Titan Controls brand; measures temperature, humidity, and air pressure to calculate VPD. Connects to Gavita EL3 digital sensor port via EL3-to-Titan Adapter Cable (HGC906729, sold separately). Up to 16 units per EL3. LED display included."
+}

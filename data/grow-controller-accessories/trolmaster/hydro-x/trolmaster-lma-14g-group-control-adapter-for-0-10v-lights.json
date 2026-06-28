@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster LMA-14G Group Control Adapter for 0-10V Lights",
+  "type": "adapter",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/LMA-14G",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Group control adapter enabling grouped dimming control for multiple 0-10V protocol light fixtures"
+}

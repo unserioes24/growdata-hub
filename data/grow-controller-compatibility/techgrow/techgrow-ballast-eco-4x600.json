@@ -1,0 +1,23 @@
+{
+  "controller_model": "TechGrow Ballast Eco 4x600",
+  "compatible_devices": [
+    {
+      "controller_model": "TechGrow Ballast Eco 4x600",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Any 600W HPS ballast, Any 600W MH ballast",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (EU 230V mains)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://techgrow.nl/ballast-eco-4x600.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Mechanical analog timer relay controller; switches up to 4x600W HPS/MH lamp ballasts via standard Schuko outlets; mechanical clock with 15-minute intervals, max 48 switching moments per 24h cycle; three modes: clock, on, off; no sensors, no digital features, no app or WiFi; designed for HID lamps only"
+    }
+  ]
+}

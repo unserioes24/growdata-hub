@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "IntelliClimate",
+  "name": "Bluelab EnviroSensor IntelliClimate CO2 Sensor",
+  "type": "co2_sensor",
+  "price_amount": 1166,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-envirosensor-intelliclimate-c02-sensor",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Combined CO2/temperature/humidity/light environment sensor for IntelliClimate climate controller. Used as replacement or second sensor for grow spaces larger than 10m x 10m. CO2 resolution 50 ppm, range 0-5000 ppm."
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "Inkbird",
+  "compatible_series": "ITC-1000 / ITC-100VH PID",
+  "name": "INKBIRD SSR Solid State Relay for PID Temperature Controllers (25A or 40A)",
+  "type": "relay_module",
+  "price_amount": 12.29,
+  "price_currency": "USD",
+  "source_url": "https://www.inkbird.com/products/ssr",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "25A or 40A DC-input solid state relay for use with Inkbird PID temperature controllers (ITC-1000, ITC-100VH, ITC-106VH). Load voltage 24–380 VAC, input 3–32 V DC. Required external relay when PID output drives heating/cooling loads. Price from $12.29; also sold as kit on Amazon.de (B01N2XZ4HV) bundled with ITC-100VH + K sensor + heat sink."
+}

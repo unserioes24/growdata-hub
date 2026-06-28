@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector HydroDirector",
+  "type": "expansion_module",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://growdirector.com/shop/hydrodirector/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Hydroponic automation module with 3 integrated dosing pumps (up to 200 ml/min) and 3 sensor ports for pH, EC, DO/ORP; WiFi-enabled; price via quote only"
+}

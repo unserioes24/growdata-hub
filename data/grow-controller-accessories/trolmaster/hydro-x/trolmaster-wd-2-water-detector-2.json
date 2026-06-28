@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster WD-2 Water Detector 2",
+  "type": "sensor_probe",
+  "price_amount": 103.95,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Second-generation water leak detector. EUR price from lientec-led.com"
+}

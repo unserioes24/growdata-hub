@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster DCC-2 Dual System Control Adapter",
+  "type": "adapter",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/DCC-2",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Connects two TrolMaster controllers to share control of a single device (e.g., Hydro-X + Carbon-X controlling same exhaust fan)"
+}

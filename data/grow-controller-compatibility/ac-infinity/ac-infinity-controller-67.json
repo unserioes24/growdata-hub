@@ -1,0 +1,41 @@
+{
+  "controller_model": "AC Infinity Controller 67",
+  "compatible_devices": [
+    {
+      "controller_model": "AC Infinity Controller 67",
+      "compatible_product_category": "ec_fan",
+      "compatible_brand": "AC Infinity",
+      "compatible_series": "CLOUDLINE, AIRLIFT, CLOUDWAY",
+      "compatible_model_examples": "CLOUDLINE T4, CLOUDLINE T6, AIRLIFT S6",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Molex",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": "AC Infinity app",
+      "ai_feature_scope": "Temperature/humidity-triggered speed adjustment, schedule, cycle, timer",
+      "source_url": "https://acinfinity.com/pages/controller-programming/controller-67-overview.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Controls up to 2 devices with shared programming (not independent); Molex connector native; Bluetooth-only app; newer UIS-connector versions of these fan series require UIS-to-Molex adapter dongle (sold separately); no grow light or climate device support"
+    },
+    {
+      "controller_model": "AC Infinity Controller 67",
+      "compatible_product_category": "circulation_fan",
+      "compatible_brand": "AC Infinity",
+      "compatible_series": "CLOUDRAY",
+      "compatible_model_examples": "CLOUDRAY A4, CLOUDRAY A6, CLOUDRAY S4",
+      "compatibility_level": "via_adapter",
+      "connector_or_protocol": "Molex (via UIS-to-Molex adapter)",
+      "requires_adapter_or_module": true,
+      "required_adapter_or_module": "UIS to Molex Port Adapter Dongle",
+      "app_ecosystem": "AC Infinity app",
+      "ai_feature_scope": "Temperature/humidity-triggered speed adjustment, schedule, cycle, timer",
+      "source_url": "https://acinfinity.com/hydroponics-growers/uis-to-molex-port-adapter-dongle-conversion-cable-cord/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "CLOUDRAY uses UIS connectors; UIS-to-Molex adapter required to connect to Controller 67's Molex port; counts toward the 2-device shared-programming limit"
+    }
+  ]
+}

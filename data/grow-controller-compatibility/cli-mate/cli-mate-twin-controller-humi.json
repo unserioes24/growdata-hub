@@ -1,0 +1,59 @@
+{
+  "controller_model": "Cli-Mate Twin Controller Humi",
+  "compatible_devices": [
+    {
+      "controller_model": "Cli-Mate Twin Controller Humi",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://cli-mate.nl/en/producten/hybride-multifunctional/twin-controller-humidity/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Identical dual-channel fan control to the standard Twin Controller. Intake-fan minimum, maximum, and negative-pressure settings are independent from exhaust. AC voltage regulation — EC fans (0-10V/PWM) are not supported. Available in 4+4A or 12+12A versions."
+    },
+    {
+      "controller_model": "Cli-Mate Twin Controller Humi",
+      "compatible_product_category": "humidifier",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://cli-mate.nl/en/producten/hybride-multifunctional/twin-controller-humidity/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "One dedicated Schuko output socket switchable between humidifier and dehumidifier via a physical mode-selector switch — only one device type can be connected at a time. On/off switching based on RH setpoint; switching differential ±5% rH. Humidity range 20–100% rH. Amperage rating limited to the controller's total capacity (4A or 12A per side)."
+    },
+    {
+      "controller_model": "Cli-Mate Twin Controller Humi",
+      "compatible_product_category": "dehumidifier",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "partial",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://cli-mate.nl/en/producten/hybride-multifunctional/twin-controller-humidity/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Same shared Schuko socket as the humidifier output — physical mode selector must be repositioned and device cable swapped to switch between humidifier and dehumidifier. Cannot run humidifier and dehumidifier simultaneously. Switching differential ±5% rH; humidity range 20–100% rH. Pure on/off control (no variable output)."
+    }
+  ]
+}

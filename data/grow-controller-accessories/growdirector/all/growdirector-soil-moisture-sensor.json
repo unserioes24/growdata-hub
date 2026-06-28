@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector Soil Moisture Sensor",
+  "type": "soil_sensor",
+  "price_amount": 75,
+  "price_currency": "USD",
+  "source_url": "https://growdirector.com/shop/soil-moisture/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "2m (6.5ft) cable; capacitive sensing; moisture 0-100%, accuracy ±2%/±3%; temp -30 to +70C; connects to SensorDirector; US retailer sale price ($100 regular)"
+}

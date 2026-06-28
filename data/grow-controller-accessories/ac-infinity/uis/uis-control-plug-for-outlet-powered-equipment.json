@@ -1,0 +1,12 @@
+{
+  "brand": "AC Infinity",
+  "compatible_series": "UIS",
+  "name": "UIS Control Plug, for Outlet-Powered Equipment",
+  "type": "smart_plug",
+  "price_amount": 26.33,
+  "price_currency": "EUR",
+  "source_url": "https://acinfinity.com/uis-control-plug-for-outlet-powered-equipment/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Connects UIS controllers to outlet-powered devices (humidifiers, heaters, dehumidifiers, A/Cs). Includes 10ft UIS cord. Max 1800W. Works with Controller 69, 69 Pro, AI+."
+}

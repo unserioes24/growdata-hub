@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Aqua-X",
+  "name": "TrolMaster PCT-2 Heavy-Duty Intank EC/Temp Sensor",
+  "type": "ec_probe",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/PCT-2",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Heavy-duty intank EC and temperature probe; more robust than PCT-1"
+}

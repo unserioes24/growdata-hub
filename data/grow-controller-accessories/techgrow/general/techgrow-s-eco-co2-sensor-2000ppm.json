@@ -1,0 +1,12 @@
+{
+  "brand": "TechGrow",
+  "compatible_series": null,
+  "name": "TechGrow S-Eco CO2 Sensor (2000ppm)",
+  "type": "co2_sensor",
+  "price_amount": 188,
+  "price_currency": "EUR",
+  "source_url": "https://www.eugardencenter.com/en/techgrow-s-eco-sensor.html",
+  "source_type": "retailer",
+  "source_date": "2026-06-28",
+  "notes": "Budget CO2 sensor, range 0-2000ppm, NDIR, includes ABC auto-calibration, built-in light sensor; compatible with T-Nano, T-Micro, T-1 Pro; temporarily unavailable at EUGardencenter"
+}

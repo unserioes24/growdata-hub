@@ -1,0 +1,23 @@
+{
+  "controller_model": "TechGrow Ballast Basic Micro",
+  "compatible_devices": [
+    {
+      "controller_model": "TechGrow Ballast Basic Micro",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Any 600W HPS ballast, Any 600W MH ballast",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (EU 230V mains)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/ballast-basic-micro-2-x-600w.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Digital timer relay controller; switches up to 2x600W HPS/MH lamp ballasts (2000W total); 2x16 LCD display; supports 24h and asymmetrical (up to 36h) timer cycles; built-in battery with 0-300min power failure protection; contactor rated 25A AC-7a; no sensor input; no fan, humidity, or CO2 outputs; no app or WiFi"
+    }
+  ]
+}

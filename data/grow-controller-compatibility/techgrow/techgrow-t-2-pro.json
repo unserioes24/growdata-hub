@@ -1,0 +1,59 @@
+{
+  "controller_model": "TechGrow T-2 Pro",
+  "compatible_devices": [
+    {
+      "controller_model": "TechGrow T-2 Pro",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Systemair RVK, Can-Fan Classic, RAM Air inline fan",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (230V triac phase-cut)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/t-2-pro-co2-controller-14a.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Fan triac output available in 4.5A, 7A, and 14A versions (8A, 12A, 24A triac respectively). Fan speed is automatically modulated based on CO2, temperature, and humidity setpoints. EC fans (0-10V or PWM) are not compatible. Humidity is managed indirectly by increasing ventilation speed; no separate humidifier relay exists on this unit."
+    },
+    {
+      "controller_model": "TechGrow T-2 Pro",
+      "compatible_product_category": "co2_generator",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (230V relay, 8A)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/t-2-pro-co2-controller-14a.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Dedicated 8A CO2 relay output (fused at 4A). Controls both propane/gas CO2 generators and compressed-CO2 bottle systems via solenoid valve. CO2 dosing is automatically suspended at night (via built-in light sensor in S-4 sensor) and when humidity exceeds setpoint."
+    },
+    {
+      "controller_model": "TechGrow T-2 Pro",
+      "compatible_product_category": "sensor",
+      "compatible_brand": "TechGrow",
+      "compatible_series": "S-4",
+      "compatible_model_examples": "S-4 0/2000ppm, S-4 0/10000ppm",
+      "compatibility_level": "full",
+      "connector_or_protocol": "UTP (RJ45), 5m cable included",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/t-2-pro-co2-controller-14a.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Sensor sold separately and is mandatory for operation. S-4 measures CO2, temperature, relative humidity, and ambient light (day/night detection). Explicitly incompatible with S-2 (all ranges), S-Eco, and standalone Temp/RH or temperature probe sensors."
+    }
+  ]
+}

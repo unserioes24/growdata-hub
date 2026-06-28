@@ -1,0 +1,12 @@
+{
+  "brand": "AC Infinity",
+  "compatible_series": "Controller AI+",
+  "name": "AI Climate Sensor, for VPD, Temperature, and Humidity Readings",
+  "type": "temp_humidity_sensor",
+  "price_amount": 17.55,
+  "price_currency": "EUR",
+  "source_url": "https://acinfinity.com/ai-climate-sensor-for-vpd-temperature-and-humidity-readings/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Model AC-SPC24, UIS connector, 24ft (7.3m) cable, Swiss-made thermal alloy probe, IP44. Amazon.de lists this as 'Controller Sensor Probe for Controller AI+' 6m version (may differ slightly in cable length)."
+}

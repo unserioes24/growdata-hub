@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "Guardian Monitor, Pro Controller",
+  "name": "Bluelab Sample Tube and Fittings (SAMTUB)",
+  "type": "adapter",
+  "price_amount": 263,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-sample-tube-and-fittings",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Inline sampling adapter for mounting probes into a sample line from reservoir (for reservoirs up to 2m from controller). Includes shut-off valves. Max 15 psi. Compatible with Guardian Monitor Wi-Fi and Pro Controller Wi-Fi."
+}

@@ -1,0 +1,41 @@
+{
+  "controller_model": "TechGrow Clima Eco",
+  "compatible_devices": [
+    {
+      "controller_model": "TechGrow Clima Eco",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Systemair RVK, Can-Fan Classic, RAM Air, Winflex",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (230V triac phase-cut, 8A)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/clima-eco-5a-temp-rh.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Available as Clima Eco 5A (Min-speed), 5A (Min-Max speed), or 5A (Temp-RH). All use an 8A triac (5A fused). Clima Control Eco 15A variant uses 12A triac. Fan speed ramps slowly for stable climate. Temperature range 15-35°C (or 10-45°C on Clima Control Eco). AC induction motor fans only — EC fans not compatible. Up to 2 fans on Clima Control Eco 15A variant."
+    },
+    {
+      "controller_model": "TechGrow Clima Eco",
+      "compatible_product_category": "sensor",
+      "compatible_brand": "TechGrow",
+      "compatible_series": null,
+      "compatible_model_examples": "TechGrow Temp probe 2m, TechGrow Temp probe 5m, TechGrow Temp/RH sensor",
+      "compatibility_level": "full",
+      "connector_or_protocol": "proprietary",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/clima-eco-5a-temp-rh.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Temperature probe (2m/5m/10m) compatible with all Clima Eco variants. Temp/RH sensor only supported by the Clima Eco 5A Temp-RH variant, enabling humidity-based fan control (RH setpoint 40-90%, fixed 3% hysteresis). CO2 sensors (S-2, S-4, S-Eco) are explicitly incompatible with Clima Eco."
+    }
+  ]
+}

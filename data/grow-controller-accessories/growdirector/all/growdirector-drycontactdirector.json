@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector DryContactDirector",
+  "type": "relay_module",
+  "price_amount": 710,
+  "price_currency": "USD",
+  "source_url": "https://growdirector.com/shop/drycontactdirector/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "4-channel dry contact relay module (10A per channel); WiFi-enabled; controls high and low-voltage devices including irrigation, lights, fans, alarms; price from AgriExpo"
+}

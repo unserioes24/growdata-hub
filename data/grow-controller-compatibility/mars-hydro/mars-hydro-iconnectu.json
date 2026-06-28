@@ -1,0 +1,41 @@
+{
+  "controller_model": "Mars Hydro iConnectu",
+  "compatible_devices": [
+    {
+      "controller_model": "Mars Hydro iConnectu",
+      "compatible_product_category": "led_grow_light",
+      "compatible_brand": "Mars Hydro",
+      "compatible_series": "FC Series, FC-E Series, SP Series",
+      "compatible_model_examples": "FC1500-EVO, FC-E4800, SP3000",
+      "compatibility_level": "full",
+      "connector_or_protocol": "RJ12",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": "MarsPro app",
+      "ai_feature_scope": "Dimming, timing schedule, sunrise/sunset simulation, stage-based PPFD control",
+      "source_url": "https://www.amazon.com/MARS-HYDRO-iConnectu-Controller-Controllable/dp/B0CT2PVLVN",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Only for 2024+ new version FC, FC-E, and SP3000; older non-smart models not compatible; iConnectu plugs into the light's RJ12 port and adds WiFi/Bluetooth"
+    },
+    {
+      "controller_model": "Mars Hydro iConnectu",
+      "compatible_product_category": "ec_fan",
+      "compatible_brand": "Mars Hydro",
+      "compatible_series": "iFresh",
+      "compatible_model_examples": "iFresh 4\", iFresh 6\"",
+      "compatibility_level": "partial",
+      "connector_or_protocol": "RJ12",
+      "requires_adapter_or_module": true,
+      "required_adapter_or_module": "iFresh MarsPro Add-On Pack (includes iFresh fan + temperature sensor)",
+      "app_ecosystem": "MarsPro app",
+      "ai_feature_scope": "Wind speed adjustment, environmental monitoring via temperature sensor",
+      "source_url": "https://www.amazon.com/MARS-HYDRO-Temperature-Controller-Environmental/dp/B0DZCHSL94",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Add-On Pack specifically listed as 'for New Version iFresh Inline Duct Fan, Temperature Sensor and iConnectu Controller'; iConnectu alone is LED-only; no humidifier, CO2, or heater control"
+    }
+  ]
+}

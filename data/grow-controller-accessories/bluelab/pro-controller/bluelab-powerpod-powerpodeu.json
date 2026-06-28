@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "Pro Controller",
+  "name": "Bluelab PowerPod (POWERPODEU)",
+  "type": "power_module",
+  "price_amount": 698,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-powerpod",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Electronically controlled mains switching box for Pro Controller. 4 IEC mains outputs (8.5A max total). Enables Pro Controller to control pumps, heaters, coolers via control signals. Available in EU/US/UK/AU plug variants."
+}

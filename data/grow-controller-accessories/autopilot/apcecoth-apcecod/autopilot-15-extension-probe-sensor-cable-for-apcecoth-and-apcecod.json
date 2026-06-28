@@ -1,0 +1,12 @@
+{
+  "brand": "Autopilot",
+  "compatible_series": "APCECOTH, APCECOD",
+  "name": "Autopilot 15' Extension Probe Sensor Cable (for APCECOTH and APCECOD)",
+  "type": "extension_cable",
+  "price_amount": 18.82,
+  "price_currency": "USD",
+  "source_url": "https://beacontron.com/store/index.php?cPath=32_47",
+  "source_type": "retailer",
+  "source_date": "2026-06-28",
+  "notes": "SKU APCEXT; extends environmental controller probe reach to 30 ft; also compatible with APE2200, APE3100, APE4100, APE4200"
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "Autopilot",
+  "compatible_series": "PX1",
+  "name": "PX1 Connection Cable, RJ12 to RJ12, 50'",
+  "type": "rj12_cable",
+  "price_amount": 22.42,
+  "price_currency": "USD",
+  "source_url": "https://www.growgeneration.com/px1-connection-cable-rj12-to-rj12-50.html",
+  "source_type": "retailer",
+  "source_date": "2026-06-28",
+  "notes": "SKU APRJ1250; RJ12-to-RJ12 trunk line cable for Autopilot PX1 lighting controller; also compatible with PPM-5 APCECO2 remote CO2 sensor"
+}

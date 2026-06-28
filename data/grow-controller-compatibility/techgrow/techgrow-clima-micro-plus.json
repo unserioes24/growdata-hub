@@ -1,0 +1,59 @@
+{
+  "controller_model": "TechGrow Clima Micro Plus",
+  "compatible_devices": [
+    {
+      "controller_model": "TechGrow Clima Micro Plus",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Systemair RVK 125 A1, Vents TT 125, Blauberg Turbo 125",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/clima-micro-plus-5a-temp-rh.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Controls fan speed via triac (5A fuse, 12A triac). Compatible with any 230V AC single-phase induction motor fan. Supports up to 2 fans. EC fans requiring 0-10V or PWM control are NOT compatible. Min fan speed adjustable 10-100% in 2% increments."
+    },
+    {
+      "controller_model": "TechGrow Clima Micro Plus",
+      "compatible_product_category": "circulation_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/clima-micro-plus-5a-temp-rh.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Triac-based Schuko outlet can power AC circulation fans. Total combined load across all outlets must not exceed 5A fuse rating. Only works with AC motor fans, not EC/PWM circulation fans."
+    },
+    {
+      "controller_model": "TechGrow Clima Micro Plus",
+      "compatible_product_category": "sensor",
+      "compatible_brand": "TechGrow",
+      "compatible_series": "Temp/RH Sensor series",
+      "compatible_model_examples": "TechGrow Temp/RH Sensor, TechGrow Temp probe",
+      "compatibility_level": "full",
+      "connector_or_protocol": "UTP (RJ45)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/clima-micro-plus-5a-temp-rh.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Has 3x UTP (RJ45) sensor ports. Compatible with TechGrow Temp/RH Sensor and Temp probe. S-4, S-2, and S-Eco CO2 sensors are explicitly NOT compatible with the Clima Micro Plus."
+    }
+  ]
+}

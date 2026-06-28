@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector DimmerDirector",
+  "type": "expansion_module",
+  "price_amount": 800,
+  "price_currency": "USD",
+  "source_url": "https://growdirector.com/shop/dimmerdirector/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "0-10V or 0-5V LED grow light dimmer module; controls up to 100 LED grow lights per unit; WiFi-enabled; daisy-chainable; price from AgriExpo"
+}

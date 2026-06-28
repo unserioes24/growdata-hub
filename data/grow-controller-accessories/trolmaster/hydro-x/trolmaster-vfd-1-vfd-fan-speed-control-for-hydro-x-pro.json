@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster VFD-1 VFD Fan Speed Control for Hydro-X Pro",
+  "type": "expansion_module",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/VFD-1",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Variable frequency drive interface for HCS-2 Hydro-X Pro; controls industrial fan speed via RS485/RJ12. Works with TECO E510, DELTA ME300, ABB ACS355"
+}

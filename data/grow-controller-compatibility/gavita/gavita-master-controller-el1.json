@@ -1,0 +1,41 @@
+{
+  "controller_model": "Gavita Master Controller EL1",
+  "compatible_devices": [
+    {
+      "controller_model": "Gavita Master Controller EL1",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Gavita",
+      "compatible_series": "Pro e-series HPS, DigiStar e-series",
+      "compatible_model_examples": "Pro 1000e DE, Pro 600e, DigiStar e-series",
+      "compatibility_level": "full",
+      "connector_or_protocol": "proprietary EL / RJ14",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": "24h timer, sunrise/sunset simulation (0–30 min), auto-dim at temperature threshold, emergency auto-shutdown",
+      "source_url": "https://hydrobuilder.com/gavita-master-controller-el1-gen-2.html",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "EL1 has 1 control channel; handles up to 40 single-bus or 500 repeater-bus fixtures without a booster. Plug-and-play: cables included with each e-series fixture. Dimming range 50–115% (watts or % display). Ballasts must be set to EXT (external control) mode. Also listed as compatible with Gavita LEP (Light Emitting Plasma) fixtures. Gen 2 uses 15V power supply (vs 5V on Gen 1). No ECM auxiliary output — that is EL2-only."
+    },
+    {
+      "controller_model": "Gavita Master Controller EL1",
+      "compatible_product_category": "led_grow_light",
+      "compatible_brand": "Gavita",
+      "compatible_series": "Pro LED e-series",
+      "compatible_model_examples": "Pro 900e LED, Pro 1700e LED, Pro CT1930e LED",
+      "compatibility_level": "via_adapter",
+      "connector_or_protocol": "proprietary EL / RJ45",
+      "requires_adapter_or_module": true,
+      "required_adapter_or_module": "Gavita E-Series LED Adapter HGC906717 (25 ft) or HGC906716 (10 ft)",
+      "app_ecosystem": null,
+      "ai_feature_scope": "auto-dim at temperature threshold, emergency auto-shutdown, sunrise/sunset simulation, 24h timer",
+      "source_url": "https://hydrobuilder.com/gavita-master-controller-el1-gen-2.html",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Gavita E-Series LED Adapter required for 900e, 1700e, and CT1930e LED fixtures; adapters use RJ45 connectors for daisy-chaining between fixtures. Adapter sold separately (HGC906717 or HGC906716). Up to 500 repeater-bus LED fixtures per channel with adapter. EL1 supports only 1 channel."
+    }
+  ]
+}

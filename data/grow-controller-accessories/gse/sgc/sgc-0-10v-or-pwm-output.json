@@ -1,0 +1,12 @@
+{
+  "brand": "GSE",
+  "compatible_series": "SGC",
+  "name": "SGC 0-10V or PWM Output",
+  "type": "expansion_module",
+  "price_amount": 69,
+  "price_currency": "EUR",
+  "source_url": "https://g-systems.eu/shop/product/sg18-sgc-0-10v-or-pwm-output-4542",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "SG18; controls EC fans, LED lights, and dimmable ballasts via 0-10V analog or PWM output; also reads RPM; 3 connector types: RJ45 (Primaklima EC fans), 3.5mm stereo jack (Can-Fan EC fans), terminal block; 4m PU cable"
+}

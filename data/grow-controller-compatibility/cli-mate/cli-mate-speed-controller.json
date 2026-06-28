@@ -1,0 +1,23 @@
+{
+  "controller_model": "Cli-Mate Speed Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "Cli-Mate Speed Controller",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any single-phase AC inline or duct fan (TRIAC phase-cut compatible) up to 4A",
+      "compatible_model_examples": "Systemair RVK 100/125/150 A1, Garden Highpro AC duct fans, BioGreen AC extraction fans",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (EU), TRIAC phase-cut dimming",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://cli-mate.nl/en/producten/easy-simple/speed-controller/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Manual stepless speed control via TRIAC phase-cut dimming; no thermostat or temperature automation. SPC series, 4A max, 220/230V 50Hz, IP20 (indoor only). NOT compatible with EC fans (which require 0-10V or PWM signal) or with brushless DC fans. AC induction and shaded-pole motors that support phase-cut speed control are required. Suitable for supply and extraction fan applications."
+    }
+  ]
+}

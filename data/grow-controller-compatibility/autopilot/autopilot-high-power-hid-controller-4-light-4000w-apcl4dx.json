@@ -1,0 +1,23 @@
+{
+  "controller_model": "Autopilot High Power HID Controller 4-Light 4000W (APCL4DX)",
+  "compatible_devices": [
+    {
+      "controller_model": "Autopilot High Power HID Controller 4-Light 4000W (APCL4DX)",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Any 1000W HPS ballast, any 630W CMH ballast, any 600W MH ballast (120V or 240V)",
+      "compatibility_level": "limited",
+      "connector_or_protocol": "NEMA 6-15 / X-Plug outlet (120V or 240V selectable)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://mattshydroponics.com/autopilot-4-light-high-power-hid-controller-4000w-120v-240v-30a/",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "On/off control only via 120V trigger cord from external timer or environmental controller. No dimming. 4 outlets, 1000W per outlet, 30A total relay. X-style outlets allow 120V or 240V ballast operation without cord changes. All major HID brands (Lumatek, Phantom, Gavita, Nanolux, Sun System, etc.) supported as long as outlet plug matches NEMA 6-15/X-Plug."
+    }
+  ]
+}

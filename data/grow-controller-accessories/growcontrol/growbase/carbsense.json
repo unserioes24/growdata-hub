@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase",
+  "name": "CarbSense",
+  "type": "co2_sensor",
+  "price_amount": 329,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/en_GB/shop/gc1124-carbsense-5",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "CO2 sensor for all GrowBase controllers; measuring range 400-2000 ppm; 5m cable; IP40; not a standalone meter, requires controller; Made in Germany"
+}

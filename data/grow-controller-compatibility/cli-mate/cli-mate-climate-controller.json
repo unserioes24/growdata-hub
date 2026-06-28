@@ -1,0 +1,41 @@
+{
+  "controller_model": "Cli-Mate Climate Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "Cli-Mate Climate Controller",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "RVK 125L A1, Prima Klima PK125AL, CAN Fan Q-Max 250",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://cli-mate.nl/en/producten/advance-climate-solutions/climate-controller/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "TRIAC-based stepless analog speed controller; 2 fan inlets on controller sides; available in 7A, 12A, 16A; temperature range 5-55°C; IP44; compatible with any single-phase 220/240V 50Hz AC motor inline/duct fan. Does NOT control lights, heaters, humidifiers, or CO2 equipment."
+    },
+    {
+      "controller_model": "Cli-Mate Climate Controller",
+      "compatible_product_category": "circulation_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://cli-mate.nl/en/producten/advance-climate-solutions/climate-controller/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Any single-phase 220/240V AC circulation fan within amperage rating; fan must be rated for TRIAC voltage-reduction speed control (not all clip/oscillating fans tolerate TRIAC control). Always verify fan specs before connecting."
+    }
+  ]
+}

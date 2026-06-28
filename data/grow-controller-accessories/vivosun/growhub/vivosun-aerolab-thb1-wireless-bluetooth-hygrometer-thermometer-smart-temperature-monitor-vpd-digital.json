@@ -1,0 +1,12 @@
+{
+  "brand": "VIVOSUN",
+  "compatible_series": "GrowHub",
+  "name": "VIVOSUN AeroLab THB1 Wireless Bluetooth Hygrometer Thermometer, Smart Temperature Monitor, VPD, Digital Humidity Meter, LCD Remote Control, Data Storage, Dual Channels",
+  "type": "wireless_transmitter",
+  "price_amount": 25.99,
+  "price_currency": "EUR",
+  "source_url": "https://vivosun.com/en-US/vivosun-thb1-thermometer-p147044036718441775-v147044036718441774",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Standalone Bluetooth hygrometer/thermometer that pairs as a wireless sensor node with GrowHub E42/E42A/E25; up to 6 units can be paired per controller; acts as WiFi gateway when connected to GrowHub"
+}

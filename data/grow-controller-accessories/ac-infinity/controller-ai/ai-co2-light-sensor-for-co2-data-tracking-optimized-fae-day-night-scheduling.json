@@ -1,0 +1,12 @@
+{
+  "brand": "AC Infinity",
+  "compatible_series": "Controller AI+",
+  "name": "AI CO2 + Light Sensor, for CO2 Data Tracking, Optimized FAE, Day & Night Scheduling",
+  "type": "co2_sensor",
+  "price_amount": 43.88,
+  "price_currency": "EUR",
+  "source_url": "https://acinfinity.com/ai-co2-light-sensor-for-co2-data-tracking-optimized-fae-day-night-scheduling/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Also measures light levels. Exclusive to Controller AI+. Enables dynamic fan programming based on CO2 PPM and day/night scheduling."
+}

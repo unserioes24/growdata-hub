@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "IntelliDose",
+  "name": "Bluelab IntelliLink (BMCINL01)",
+  "type": "wifi_adapter",
+  "price_amount": 215,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-intellilink",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Wi-Fi / Ethernet gateway adding internet connectivity to IntelliDose and IntelliClimate controllers. Connects via router to Edenic cloud software for remote monitoring/control. Handles up to 4 Intelli devices."
+}

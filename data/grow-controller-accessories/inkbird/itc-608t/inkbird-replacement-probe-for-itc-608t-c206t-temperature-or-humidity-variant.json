@@ -1,0 +1,12 @@
+{
+  "brand": "Inkbird",
+  "compatible_series": "ITC-608T",
+  "name": "INKBIRD Replacement Probe for ITC-608T, C206T (Temperature or Humidity variant)",
+  "type": "temp_humidity_sensor",
+  "price_amount": 10.99,
+  "price_currency": "USD",
+  "source_url": "https://www.inkbird.com/products/itc-608t-temperature-and-humidity-probe",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "2 m (78.7 in) cable; sold as two variants: temperature probe or humidity probe. EU store lists from €9.99. ITC-608T is commonly used for grow room temperature/humidity control."
+}

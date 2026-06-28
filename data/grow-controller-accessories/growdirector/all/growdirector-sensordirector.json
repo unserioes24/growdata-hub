@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector SensorDirector",
+  "type": "expansion_module",
+  "price_amount": 660,
+  "price_currency": "USD",
+  "source_url": "https://growdirector.com/shop/sensordirector/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "WiFi-enabled sensor hub module; 4 sensor ports; supports temp/humidity, CO2, PAR, LUX, soil moisture sensors; daisy-chainable up to 64,000 sensors; price from AgriExpo listing"
+}

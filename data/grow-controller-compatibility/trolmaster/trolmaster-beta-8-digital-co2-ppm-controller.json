@@ -1,0 +1,41 @@
+{
+  "controller_model": "TrolMaster BETA-8 Digital CO2 PPM Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "TrolMaster BETA-8 Digital CO2 PPM Controller",
+      "compatible_product_category": "co2_generator",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any 120V propane or natural gas CO2 generator/burner ≤6A",
+      "compatible_model_examples": "Autopilot APCO8LP, Titan Controls Ares 8, CAP LP4",
+      "compatibility_level": "partial",
+      "connector_or_protocol": "NEMA 5-15 outlet (relay, on/off)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.trolmaster.com/Products/Details/BETA-8",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Basic on/off relay control of the generator's ignition circuit works. CRITICAL: Fuzzy Logic mode must NOT be used with CO2 generators — Fuzzy Logic is compatible ONLY with compressed CO2 regulators and may damage or cause unsafe rapid cycling of burners. Photocell ensures CO2 enrichment occurs during daylight hours only. NDIR sensor, ±50 PPM accuracy, 400–2000 PPM range. Max 6A. Controller is 120V only (US market); step-down transformer required for 230V German market."
+    },
+    {
+      "controller_model": "TrolMaster BETA-8 Digital CO2 PPM Controller",
+      "compatible_product_category": "co2_controller",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any 120V compressed CO2 regulator with solenoid valve ≤6A",
+      "compatible_model_examples": "Titan Controls Atlas 2 solenoid regulator, Autopilot CO2 regulator with solenoid, Milwaukee MC122",
+      "compatibility_level": "full",
+      "connector_or_protocol": "NEMA 5-15 outlet (relay, on/off)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": "Fuzzy Logic PPM regulation (compressed CO2 only): anticipates CO2 drift and pulses solenoid for tighter PPM accuracy",
+      "source_url": "https://www.trolmaster.com/Products/Details/BETA-8",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Controls solenoid valve of compressed CO2 regulator via relay. Full control including Fuzzy Logic mode for precise PPM management — Fuzzy Logic rapidly pulses the solenoid to counteract CO2 drift and achieve tighter setpoint accuracy. Adjustable deadband 20–200 PPM. Photocell limits CO2 injection to daylight hours only. Max 6A. Controller is 120V only."
+    }
+  ]
+}

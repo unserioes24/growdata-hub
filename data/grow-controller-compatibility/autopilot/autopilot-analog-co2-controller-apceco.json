@@ -1,0 +1,59 @@
+{
+  "controller_model": "Autopilot Analog CO2 Controller (APCECO)",
+  "compatible_devices": [
+    {
+      "controller_model": "Autopilot Analog CO2 Controller (APCECO)",
+      "compatible_product_category": "co2_generator",
+      "compatible_brand": "Autopilot",
+      "compatible_series": "APGP (propane), APGN (natural gas)",
+      "compatible_model_examples": "APGP0400, APGN0800, APGP0800",
+      "compatibility_level": "full",
+      "connector_or_protocol": "NEMA 5-15",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.hydrofarm.com/p/autopilot-analog-co2-controller/apceco",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Single NEMA 5-15 120V outlet switches power on/off based on PPM sensor; max 14.5A. Autopilot gas generators (propane and natural gas models) plug in directly. Built-in photocell disables CO2 during dark period. Both generator and compressed CO2 solenoid systems supported."
+    },
+    {
+      "controller_model": "Autopilot Analog CO2 Controller (APCECO)",
+      "compatible_product_category": "co2_generator",
+      "compatible_brand": "Titan Controls",
+      "compatible_series": "Ares",
+      "compatible_model_examples": "Ares 2, Ares 4, Ares 10",
+      "compatibility_level": "full",
+      "connector_or_protocol": "NEMA 5-15",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.titancontrols.net/shop/product/titan-controls-co2-regulator",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Titan Controls Ares series gas generators draw 1.5A at 120V — well within APCECO's 14.5A max. Titan Controls CO2 solenoid regulator (120V solenoid valve) also fully compatible."
+    },
+    {
+      "controller_model": "Autopilot Analog CO2 Controller (APCECO)",
+      "compatible_product_category": "co2_generator",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "NEMA 5-15",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.hydrofarm.com/p/autopilot-analog-co2-controller/apceco",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Any 120V CO2 device (gas generator or compressed CO2 solenoid regulator) within 14.5A max is compatible. Pure ON/OFF switching control based on PPM setpoint. No brand-specific protocol required."
+    }
+  ]
+}

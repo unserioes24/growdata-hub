@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster TS-3 Reheat Control Station",
+  "type": "relay_module",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/TS-3",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Enables reheat mode on HVAC units capable of simultaneous heating and cooling; effective for dehumidification without temperature drop"
+}

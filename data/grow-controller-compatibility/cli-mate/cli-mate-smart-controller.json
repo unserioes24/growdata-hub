@@ -1,0 +1,23 @@
+{
+  "controller_model": "Cli-Mate Smart Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "Cli-Mate Smart Controller",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any AC inline/duct fan series",
+      "compatible_model_examples": "Systemair RVK Sileo, S&P TD series, Vents TT series",
+      "compatibility_level": "full",
+      "connector_or_protocol": "AC socket (Schuko, 230V)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://cli-mate.nl/en/producten/easy-simple/smart-controller/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Temperature-triggered automatic 2-step fan speed control (minimum speed + full speed) via 3°C hysteresis. AC motor fans only; EC fans requiring 0-10V or PWM signal are NOT compatible. Max 6.5A (~1500W). 5m external temperature probe included. No automation beyond on/off speed step."
+    }
+  ]
+}

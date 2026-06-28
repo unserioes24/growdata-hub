@@ -1,0 +1,12 @@
+{
+  "brand": "Gavita",
+  "compatible_series": "EL3",
+  "name": "Titan Controls Triton Standard Substrate Sensor (for Gavita EL3)",
+  "type": "ec_probe",
+  "price_amount": 159.5,
+  "price_currency": "USD",
+  "source_url": "https://www.bghydro.com/titan-controls-triton-standard-substrate-sensor.html",
+  "source_type": "retailer",
+  "source_date": "2026-06-28",
+  "notes": "SKU HGC702601. Titan Controls brand; measures EC, VWC (volumetric water content), and substrate temperature. Connects to Gavita EL3 digital sensor port via EL3-to-Titan Adapter Cable (HGC906729, sold separately). Includes 15ft cable and T-connector for daisy-chaining."
+}

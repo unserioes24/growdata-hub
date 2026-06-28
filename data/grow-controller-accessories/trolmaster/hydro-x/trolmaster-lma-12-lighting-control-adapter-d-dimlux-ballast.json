@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster LMA-12 Lighting Control Adapter D (Dimlux Ballast)",
+  "type": "adapter",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/LMA-12",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Adapter for controlling Dimlux ballasts via Hydro-X RJ12 port"
+}

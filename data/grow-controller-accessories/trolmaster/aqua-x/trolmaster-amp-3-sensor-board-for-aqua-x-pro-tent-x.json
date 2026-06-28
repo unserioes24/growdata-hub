@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Aqua-X",
+  "name": "TrolMaster AMP-3 Sensor Board for Aqua-X Pro / Tent-X",
+  "type": "expansion_module",
+  "price_amount": 170,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/AMP-3",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Sensor board for NFS-2/NFS-3 Aqua-X Pro and TCS-1 Tent-X; connects pH and EC/temp probes via RJ12. EUR price from hobbygrow.de"
+}

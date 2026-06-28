@@ -1,0 +1,12 @@
+{
+  "brand": "Gavita",
+  "compatible_series": "EL1/EL2",
+  "name": "Gavita Controller Cable RJ9/RJ14 25ft / 7.5m",
+  "type": "controller_cable",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.amazon.de/Gavita-Controller-Kabel-RJ9-RJ14-25-Ft/dp/B0799719W6",
+  "source_type": "marketplace",
+  "source_date": "2026-06-28",
+  "notes": "Long controller cable; connects EL1/EL2 master controller (RJ9) to E-series ballast (RJ14); 7.5m length. Confirmed on Amazon.de."
+}

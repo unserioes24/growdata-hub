@@ -1,0 +1,12 @@
+{
+  "brand": "SMSCOM",
+  "compatible_series": "SPC",
+  "name": "SMSCOM SPC Slave Mk2 16A",
+  "type": "expansion_module",
+  "price_amount": 150.25,
+  "price_currency": "EUR",
+  "source_url": "https://www.eugardencenter.com/en/smscom-spc-16amp-mounted.html",
+  "source_type": "retailer",
+  "source_date": "2026-06-28",
+  "notes": "Plug-and-play expansion module for SPC MK2 8A or 16A master; up to 5 slaves per master; includes link cable. Runs in automatic (slave) or manual 100% mode."
+}

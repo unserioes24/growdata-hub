@@ -1,0 +1,23 @@
+{
+  "controller_model": "Autopilot FUEL ST8 Light Controller 8 Outlet 240V",
+  "compatible_devices": [
+    {
+      "controller_model": "Autopilot FUEL ST8 Light Controller 8 Outlet 240V",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Any 1000W 240V HPS ballast, any 630W 240V CMH ballast, any 600W 240V MH ballast",
+      "compatibility_level": "limited",
+      "connector_or_protocol": "NEMA 6-15 outlet (240V only)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.amazon.com/Light-Controller-Outlet-Single-Trigger/dp/B07FN4QTCK",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "240V ONLY — 120V ballasts must not be used. On/off control via single 120V trigger cord from external timer or environmental controller. 8 outlets across 2 banks of 4 (30-second staggered power-on delay per bank to limit inrush current). 50A main supply required; 40A max ballast load; 5A per outlet (1200W capacity per outlet). ETL-listed. Any brand 240V HID ballast with NEMA 6-15 plug is compatible."
+    }
+  ]
+}

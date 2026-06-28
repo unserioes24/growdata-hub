@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase Pro",
+  "name": "Intake Sensor Humidity & Temperature",
+  "type": "temp_humidity_sensor",
+  "price_amount": 79,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/en_GB/shop/gc1121-zuluft-sensor-luftfeuchte-temperatur-741",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Supply/intake air version of the humidity & temperature sensor; 12mm thread for mounting in ventilation ducts; black cable gland distinguishes it from the room sensor; requires firmware 5045.0.00.15b or newer"
+}

@@ -1,0 +1,41 @@
+{
+  "controller_model": "SMSCOM CarbonMatic Mk2",
+  "compatible_devices": [
+    {
+      "controller_model": "SMSCOM CarbonMatic Mk2",
+      "compatible_product_category": "co2_generator",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any 230V mains-powered CO2 generator or solenoid regulator",
+      "compatible_model_examples": "TechGrow CO2 Generator, Hotbox CO2 Generator, Pure Factory CO2 Generator LP",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (EU) / UK socket (UK version)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.2s-international.com/shop/smscom/smscom-carbonmatic/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Activates any 230V/10A CO2 generator or solenoid regulator via mains socket when CO2 ppm falls below setpoint. Covers both gas-burner generators and CO2 cylinder systems with 230V-powered solenoid valves. Passive CO2 sources (bags, fermentation) cannot be controlled. Light sensor disables CO2 addition during dark cycle."
+    },
+    {
+      "controller_model": "SMSCOM CarbonMatic Mk2",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any 230V single-phase AC extraction or exhaust fan up to 10A",
+      "compatible_model_examples": "Systemair RVK A1 series, Prima Klima mixed-flow AC fans, BioGreen AC extraction fans",
+      "compatibility_level": "limited",
+      "connector_or_protocol": "Schuko outlet (EU) / UK socket (UK version)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.2s-international.com/shop/smscom/smscom-carbonmatic/",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "On/off control only — fan runs at full speed or is off; no speed modulation. Activates the extraction fan when CO2 ppm exceeds the setpoint, to reduce CO2 concentration. Max 10A. EC fans and PWM fans are not compatible with this output; only single-phase AC fans should be used."
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Green-X",
+  "name": "TrolMaster MBS-WS Weather Station Sensor for Green-X Controller",
+  "type": "sensor_probe",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/MBS-WS",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Outdoor weather station sensor measuring temperature, humidity, wind speed, and rainfall for GCS-1 greenhouse controller"
+}

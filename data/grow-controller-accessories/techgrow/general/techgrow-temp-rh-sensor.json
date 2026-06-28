@@ -1,0 +1,12 @@
+{
+  "brand": "TechGrow",
+  "compatible_series": null,
+  "name": "TechGrow Temp/RH Sensor",
+  "type": "temp_humidity_sensor",
+  "price_amount": 43.05,
+  "price_currency": "EUR",
+  "source_url": "https://www.techgrow.nl/temp-rh-sensor.html",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Measures temperature (-40 to 100°C), relative humidity (0-99%), and light simultaneously; includes 5m UTP cable; works with Clima Control, T-Mini Pro, T-2 Pro, Humi series controllers"
+}

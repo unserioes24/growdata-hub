@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster DSC-2 240V CO2 Device Station",
+  "type": "relay_module",
+  "price_amount": 103.95,
+  "price_currency": "EUR",
+  "source_url": "https://www.blacklabelsupply.io/products/trolmaster-240v-co2-device-station-dsc-2",
+  "source_type": "retailer",
+  "source_date": "2026-06-28",
+  "notes": "240V CO2 device station, 10A max at 230V. EUR price from lientec-led.com"
+}

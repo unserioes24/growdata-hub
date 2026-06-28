@@ -1,0 +1,41 @@
+{
+  "controller_model": "Inkbird ICC-510",
+  "compatible_devices": [
+    {
+      "controller_model": "Inkbird ICC-510",
+      "compatible_product_category": "co2_generator",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "CO2 propane/natural gas generators, AC solenoid CO2 tank regulators, compressed CO2 systems",
+      "compatibility_level": "full",
+      "connector_or_protocol": "AC power outlet (100–240VAC 50/60Hz 10A max)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": "photo sensor day/night CO2 automation, plant mode / human mode selection, advanced repeating cycle timer",
+      "source_url": "https://www.inkbird.com/products/programmable-co2-controller-with-s01-sensor-icc-510",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "CO2 outlet activates CO2 source based on NDIR PPM measurement (±50ppm+5%, 1s sampling); photo sensor in S01 unit auto-disables CO2 at lights-off to prevent waste; ANSI/ASHRAE 62.1-2022+Addendum ab certified; power-loss memory; no WiFi/app"
+    },
+    {
+      "controller_model": "Inkbird ICC-510",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "AC power outlet (100–240VAC 50/60Hz 10A max)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": "photo sensor day/night automation, plant mode with fan vs. plant mode without fan",
+      "source_url": "https://www.inkbird.com/products/programmable-co2-controller-with-s01-sensor-icc-510",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "FAN outlet activates exhaust fan to purge CO2 when above setpoint; operating mode can be set to plant mode without fan if no exhaust is available; photo sensor can suppress fan at night; on/off only, no speed modulation"
+    }
+  ]
+}

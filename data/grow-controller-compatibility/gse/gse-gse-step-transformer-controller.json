@@ -1,0 +1,23 @@
+{
+  "controller_model": "GSE GSE Step Transformer Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "GSE GSE Step Transformer Controller",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet, stepped AC voltage (80/110/140/170/200/230V)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.1-hydroponics.co.uk/environmental-controls/fan-controllers/8-amp-step-controller-step-transformer.html",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Step-down transformer with 6 automatic voltage steps; temperature and humidity driven; specifically for AC induction motor fans; silent operation without hum at low speeds; NOT compatible with EC fans; available in 2.5A (1-fan) and 8A (2-fan) variants; IP54 rated"
+    }
+  ]
+}

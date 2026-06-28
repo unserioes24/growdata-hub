@@ -1,0 +1,59 @@
+{
+  "controller_model": "TechGrow Ballast Connect Micro",
+  "compatible_devices": [
+    {
+      "controller_model": "TechGrow Ballast Connect Micro",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "600W HPS ballasts, 600W MH ballasts, 630W CMH ballasts",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/ballast-connect-micro-2-x-600w.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Relay-based on/off switching via 2 independent Schuko outlets rated 600W/8A each with hybrid relays; outlets switch staggered 5 s apart; 2 independent 24 H digital timers (synchronous and asynchronous); temperature protection via optional TechGrow temp probe; built-in log and battery for power-failure memory; no dimming capability"
+    },
+    {
+      "controller_model": "TechGrow Ballast Connect Micro",
+      "compatible_product_category": "led_grow_light",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "limited",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/ballast-connect-micro-2-x-600w.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Relay switches mains AC power to LED driver; on/off only, no 0-10 V or PWM dimming; LED fixtures with IEC/Schuko power inlet work but lose any intensity-control capability; max 600 W per outlet; product is marketed for HID ballasts, not LED; compatibility inferred from relay design"
+    },
+    {
+      "controller_model": "TechGrow Ballast Connect Micro",
+      "compatible_product_category": "sensor",
+      "compatible_brand": "TechGrow",
+      "compatible_series": "Temp Probe",
+      "compatible_model_examples": "Temp Probe 2M, Temp Probe 5M, Temp Probe 10M",
+      "compatibility_level": "full",
+      "connector_or_protocol": "proprietary",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/ballast-connect-micro-2-x-600w.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Probe used for temperature-protection function only (not climate automation); 5 M probe is the recommended option; Temp-RH combined humidity-temperature sensors are explicitly NOT compatible; S-4 sensor series NOT compatible; probe sold separately (SKU differs per length)"
+    }
+  ]
+}

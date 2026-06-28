@@ -1,0 +1,23 @@
+{
+  "controller_model": "Bluelab pH Controller Wi-Fi",
+  "compatible_devices": [
+    {
+      "controller_model": "Bluelab pH Controller Wi-Fi",
+      "compatible_product_category": "sensor",
+      "compatible_brand": "Bluelab",
+      "compatible_series": null,
+      "compatible_model_examples": "pH Probe, Temperature Probe",
+      "compatibility_level": "full",
+      "connector_or_protocol": "BNC (pH probe), proprietary (temperature probe)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": "Edenic",
+      "ai_feature_scope": "Remote pH monitoring, automated dosing schedules, push alerts via Edenic app",
+      "source_url": "https://bluelab.com/products/bluelab-ph-controller-wi-fi",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Built-in peristaltic pump handles all pH dosing (acid/alkali, up to 120 ml/min); no external PeriPod or PowerPod compatibility; probes are field-replaceable; does not monitor EC"
+    }
+  ]
+}

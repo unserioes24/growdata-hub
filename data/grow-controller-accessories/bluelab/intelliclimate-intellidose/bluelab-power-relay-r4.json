@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "IntelliClimate, IntelliDose",
+  "name": "Bluelab Power Relay R4",
+  "type": "relay_module",
+  "price_amount": 713,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-power-relay-r4",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "4-output individually controlled relay expansion module for IntelliClimate and IntelliDose. Controls mains-powered devices (heaters, humidifiers, dehumidifiers, CO2 equipment, lighting)."
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector Air Temperature, Humidity & VPD Sensor, 16ft Cable",
+  "type": "temp_humidity_sensor",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://growdirector.com/shop/air-temperature-humidity-vpd-sensor-16ft-cable/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "5m (16ft) cable version of the standard temp/humidity/VPD sensor; same specs; connects to SensorDirector"
+}

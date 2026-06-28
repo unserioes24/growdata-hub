@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "IntelliDose, Guardian Monitor, Pro Controller",
+  "name": "Bluelab Sample Pot incl. Fittings (BMCSPT01)",
+  "type": "adapter",
+  "price_amount": 125,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-sample-pot-incl-fittings-and-calibration-solutions",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Probe positioning chamber for setups where reservoir is more than 2m from the controller. Allows direct nutrient solution measurement with probes. Includes fittings and calibration solutions."
+}

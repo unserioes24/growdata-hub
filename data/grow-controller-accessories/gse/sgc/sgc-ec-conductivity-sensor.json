@@ -1,0 +1,12 @@
+{
+  "brand": "GSE",
+  "compatible_series": "SGC",
+  "name": "SGC EC Conductivity Sensor",
+  "type": "ec_probe",
+  "price_amount": 129,
+  "price_currency": "EUR",
+  "source_url": "https://g-systems.eu/shop/product/sg15-sgc-ec-conductivity-sensor-4539",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "SG15; EC/TDS probe for hydroponics; 0.0–10.0 mS/cm, resolution 0.1 mS/cm; automatic temperature compensation; 1m cable to interface + 4m PU cable; calibration requires SGC full software license"
+}

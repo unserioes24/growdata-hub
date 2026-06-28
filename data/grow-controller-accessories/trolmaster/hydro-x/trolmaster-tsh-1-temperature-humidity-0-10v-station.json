@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster TSH-1 Temperature/Humidity 0-10V Station",
+  "type": "relay_module",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/TSH-1",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Outputs a variable 0-10V signal to control fan speed or damper position based on temperature or humidity setpoints"
+}

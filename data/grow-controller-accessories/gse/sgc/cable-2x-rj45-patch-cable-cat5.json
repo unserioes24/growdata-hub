@@ -1,0 +1,12 @@
+{
+  "brand": "GSE",
+  "compatible_series": "SGC",
+  "name": "Cable 2x RJ45 (Patch Cable Cat5)",
+  "type": "controller_cable",
+  "price_amount": 8.9,
+  "price_currency": "EUR",
+  "source_url": "https://g-systems.eu/shop/product/cable-2x-rj45-patch-cable-cat5-5273",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Cat5 patch cable for SGC BUS communication between controller and satellite/expansion units; available in 4m or 5m lengths"
+}

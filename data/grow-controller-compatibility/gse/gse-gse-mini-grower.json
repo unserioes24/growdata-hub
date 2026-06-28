@@ -1,0 +1,59 @@
+{
+  "controller_model": "GSE GSE Mini Grower",
+  "compatible_devices": [
+    {
+      "controller_model": "GSE GSE Mini Grower",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "600W magnetic ballast, 600W HPS",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.1-hydroponics.co.uk/mini-grower-complete-controller.html",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Controls up to 9×600W HID magnetic ballasts via 4×16A relay outputs and a 24h timer with 36h power reserve (30-min intervals); 3-phase CEE16 input at 230V/50Hz; all sockets are Schuko with flap-lid safety covers"
+    },
+    {
+      "controller_model": "GSE GSE Mini Grower",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Systemair RVK, TT Fans AC series",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.1-hydroponics.co.uk/mini-grower-complete-controller.html",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Integrated GSE digital fan controller provides AC phase speed control for temperature and negative-pressure regulation; AC fans only — EC fans are not supported by this controller module; single exhaust fan channel"
+    },
+    {
+      "controller_model": "GSE GSE Mini Grower",
+      "compatible_product_category": "pump",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "limited",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.1-hydroponics.co.uk/mini-grower-complete-controller.html",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Watering/irrigation pump controlled via built-in digital impulse timer (230V 50Hz, 10A breaking capacity); basic cyclic on/off only, no EC or variable-speed pump control"
+    }
+  ]
+}

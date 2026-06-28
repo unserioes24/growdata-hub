@@ -1,0 +1,12 @@
+{
+  "brand": "Inkbird",
+  "compatible_series": "ITC-1000 / ITC-100VH PID",
+  "name": "INKBIRD K-Type Thermocouple Sensor for PID Temperature Controllers",
+  "type": "replacement_probe",
+  "price_amount": 15.99,
+  "price_currency": "USD",
+  "source_url": "https://www.inkbird.com/products/pid-accessories",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "K-type thermocouple with 2 m cable, range 0–400 °C, 4.5 mm diameter. Sold individually or bundled with heat sink and SSR as PID accessories kit. Compatible with ITC-100VH, ITC-106VH, and similar Inkbird PID controllers used for heating/cooling in grow environments."
+}

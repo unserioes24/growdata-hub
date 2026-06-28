@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "Pro Controller",
+  "name": "Bluelab PeriPod L3 (PERIPODL3)",
+  "type": "dosing_pump",
+  "price_amount": 3145,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-peripod-l3",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Large-scale 3-pump peristaltic dosing system for Pro Controller Wi-Fi (1 pH + 2 nutrient, 1200 ml/min each). For high-volume commercial applications."
+}

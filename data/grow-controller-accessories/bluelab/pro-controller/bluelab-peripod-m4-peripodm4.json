@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "Pro Controller",
+  "name": "Bluelab PeriPod M4 (PERIPODM4)",
+  "type": "dosing_pump",
+  "price_amount": 1742,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-peripod-m4",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "4-pump peristaltic dosing system for Pro Controller Wi-Fi (1 pH + 3 nutrient pumps, 120 ml/min each). Up to 12 units can be linked."
+}

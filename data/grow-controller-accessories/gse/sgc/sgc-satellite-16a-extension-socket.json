@@ -1,0 +1,12 @@
+{
+  "brand": "GSE",
+  "compatible_series": "SGC",
+  "name": "SGC Satellite 16A Extension Socket",
+  "type": "power_module",
+  "price_amount": 89,
+  "price_currency": "EUR",
+  "source_url": "https://g-systems.eu/shop/product/sgc-satellite-16a-extension-socket-1499",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Smart power strip with 6 outlets (16A, 3600W total) controlled via 1 SGC relay output; designed for inductive loads (HPS ballasts); 4m PU cable; EU and CH socket versions"
+}

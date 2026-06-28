@@ -1,0 +1,12 @@
+{
+  "brand": "GSE",
+  "compatible_series": "SGC",
+  "name": "SGC CO2, Temp., Humidity, Light Sensor",
+  "type": "co2_sensor",
+  "price_amount": 299,
+  "price_currency": "EUR",
+  "source_url": "https://g-systems.eu/shop/product/sg16-sgc-co2-temp-humidity-light-sensor-1441",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "SG16; 4-in-1 NDIR CO2 sensor (0–10,000 ppm ±30 ppm), plus temp, humidity, and light; 4m waterproof PU cable"
+}

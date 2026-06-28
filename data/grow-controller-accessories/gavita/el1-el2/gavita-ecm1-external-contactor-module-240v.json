@@ -1,0 +1,12 @@
+{
+  "brand": "Gavita",
+  "compatible_series": "EL1/EL2",
+  "name": "Gavita ECM1 External Contactor Module 240V",
+  "type": "relay_module",
+  "price_amount": 95,
+  "price_currency": "EUR",
+  "source_url": "https://world-of-grow.de/Gavita-ECM-fuer-EL-Mastercontroller",
+  "source_type": "retailer",
+  "source_date": "2026-06-28",
+  "notes": "SKU HGC906083. External contactor module (15A, DPST) with blue LED; switches auxiliary equipment (CO2, humidifier, heating) based on lights-on/off cycle. Up to two ECMs per controller. EU 230/240V version."
+}

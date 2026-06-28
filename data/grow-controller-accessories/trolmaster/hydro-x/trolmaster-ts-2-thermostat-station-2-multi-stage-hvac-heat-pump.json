@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster TS-2 Thermostat Station 2 (Multi-Stage HVAC / Heat Pump)",
+  "type": "relay_module",
+  "price_amount": 136.95,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/TS-2",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Multi-stage thermostat interface for heat pumps and conventional HVAC. EUR price from lientec-led.com"
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "Bluelab",
+  "compatible_series": "pH Controller, Pro Controller",
+  "name": "Bluelab Temperature Probe (PROBTEMP)",
+  "type": "water_temp_sensor",
+  "price_amount": 58,
+  "price_currency": "USD",
+  "source_url": "https://bluelab.com/products/bluelab-temperature-probe",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Replacement temperature probe for Bluelab pH Controller, pH Controller Connect, and Pro Controller Connect. Plug-in jack, 2m cable."
+}

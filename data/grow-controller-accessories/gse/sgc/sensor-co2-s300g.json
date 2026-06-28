@@ -1,0 +1,12 @@
+{
+  "brand": "GSE",
+  "compatible_series": "SGC",
+  "name": "Sensor CO2 S300G",
+  "type": "replacement_probe",
+  "price_amount": 249,
+  "price_currency": "EUR",
+  "source_url": "https://g-systems.eu/shop/product/sp30-sensor-co2-s300g-1055",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "SP30; replacement NDIR CO2 sensor chip module (Senseair S300G); 0–50°C operating temp, 0–95% RH; accuracy ±30 ppm ±3%; spare part for G-Systems CO2 S-100 controller"
+}

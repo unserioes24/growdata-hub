@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster DSV-1 Low-Volt Station (12/24V DC/AC Output)",
+  "type": "relay_module",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/DSV-1",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Low-voltage output station providing 12V or 24V DC/AC for controlling low-voltage devices and dampers"
+}

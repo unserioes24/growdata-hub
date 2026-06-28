@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Carbon-X",
+  "name": "TrolMaster MBS-K30 CO2 Sensor for Carbon-X",
+  "type": "co2_sensor",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/MBS-K30",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "NDIR CO2 sensor (0–30,000 ppm) with built-in LCD display for Carbon-X safety alarm system only; not compatible with Hydro-X"
+}

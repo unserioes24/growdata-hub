@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Aqua-X",
+  "name": "TrolMaster DFM-1 Digital Flow Meter (Aqua-X Pro)",
+  "type": "sensor_probe",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Digital flow meter compatible with NFS-2 Aqua-X Pro only; monitors nutrient/water flow rate"
+}

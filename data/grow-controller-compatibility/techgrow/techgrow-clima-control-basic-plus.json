@@ -1,0 +1,41 @@
+{
+  "controller_model": "TechGrow Clima Control Basic Plus",
+  "compatible_devices": [
+    {
+      "controller_model": "TechGrow Clima Control Basic Plus",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Systemair RVK 125L A1, Vents TT 150, Blauberg Turbo 150",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/clima-control-basic-plus-14a.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Temperature-only fan speed control via triac. Available in 7A (12A triac) and 14A (24A triac) versions. Controls up to 2 fans. No heater relay, no humidity control, no external sensor port — uses pre-mounted temp probe only. EC/PWM fans NOT compatible."
+    },
+    {
+      "controller_model": "TechGrow Clima Control Basic Plus",
+      "compatible_product_category": "circulation_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/clima-control-basic-plus-14a.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Triac-controlled Schuko outlets can power AC circulation fans within the 7A or 14A version fuse limits. EC/PWM fans not compatible."
+    }
+  ]
+}

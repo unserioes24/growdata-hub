@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster DCC-1 Dual Condition Adapter",
+  "type": "adapter",
+  "price_amount": 87.85,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/DCC-1",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Allows a single device station to be controlled by two separate conditions (e.g., temperature AND humidity). EUR price from lientec-led.com"
+}

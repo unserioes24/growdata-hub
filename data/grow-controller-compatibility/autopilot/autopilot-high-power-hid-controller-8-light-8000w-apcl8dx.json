@@ -1,0 +1,23 @@
+{
+  "controller_model": "Autopilot High Power HID Controller 8-Light 8000W (APCL8DX)",
+  "compatible_devices": [
+    {
+      "controller_model": "Autopilot High Power HID Controller 8-Light 8000W (APCL8DX)",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Any 1000W HPS ballast, any 630W CMH ballast, any 600W MH ballast (120V or 240V)",
+      "compatibility_level": "limited",
+      "connector_or_protocol": "NEMA 5-15 / NEMA 6-15 / X-Plug outlet (120V or 240V selectable)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://mattshydroponics.com/autopilot-8-light-high-power-hid-controller-8000w-120-240v-60a/",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "On/off control only via 120V trigger cord from external timer or environmental controller. No dimming. 8 outlets, 1000W per outlet, 60A total relay (two 30A relays). X-style outlets support both 120V and 240V ballasts. All major HID brands compatible. Upgraded terminal blocks included."
+    }
+  ]
+}

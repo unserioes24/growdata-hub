@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster ECS-3 RJ12 to Threaded Waterproof Connector Cable",
+  "type": "rj12_cable",
+  "price_amount": 25.75,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/ECS-3",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "16ft RJ12 cable with T-splitter and 4ft RJ12 to IP67 threaded waterproof connector; for Fluence and similar LED fixtures. EUR price from lientec-led.com"
+}

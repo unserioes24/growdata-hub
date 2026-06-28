@@ -1,0 +1,41 @@
+{
+  "controller_model": "TechGrow Ballast Connect",
+  "compatible_devices": [
+    {
+      "controller_model": "TechGrow Ballast Connect",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Any 600W HPS ballast, Any 600W MH ballast",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (EU 230V mains)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/ballast-connect-6x600w.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Digital timer relay controller with temperature-based lamp protection; switches up to 6x600W HPS/MH lamp ballasts via 6 individual hybrid relays (8A each, AC-5a); 4x20 LCD; 24h and asymmetrical timer; built-in ammeter with adjustable overload limit; temperature probe input enables sequential automatic lamp shutoff on overheating (up to 5 lamps); 100-event log; built-in battery power failure protection (0-300min); fuses: 2x15A slow; does NOT control fans, humidifiers, or CO2; no app or WiFi; temperature probe sold separately"
+    },
+    {
+      "controller_model": "TechGrow Ballast Connect",
+      "compatible_product_category": "sensor",
+      "compatible_brand": "TechGrow",
+      "compatible_series": "Temperature Probe series",
+      "compatible_model_examples": "Temperature Probe 2M, Temperature Probe 5M, Temperature Probe 10M",
+      "compatibility_level": "full",
+      "connector_or_protocol": "proprietary",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/ballast-connect-6x600w.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Accepts TechGrow temperature probes (2M, 5M recommended, 10M also compatible) as sensor INPUT for temperature-based lamp shutoff; Temp-RH sensors and all S-4 sensors are explicitly NOT compatible; probe triggers sequential lamp deactivation when temperature threshold is exceeded; sensor sold separately"
+    }
+  ]
+}

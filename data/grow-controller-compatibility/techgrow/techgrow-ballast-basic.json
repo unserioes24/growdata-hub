@@ -1,0 +1,23 @@
+{
+  "controller_model": "TechGrow Ballast Basic",
+  "compatible_devices": [
+    {
+      "controller_model": "TechGrow Ballast Basic",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Universal",
+      "compatible_series": null,
+      "compatible_model_examples": "Any 600W HPS ballast, Any 600W MH ballast",
+      "compatibility_level": "full",
+      "connector_or_protocol": "Schuko outlet (EU 230V mains)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.techgrow.nl/ballast-basic-4-x-600w.html",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "Digital timer relay controller; switches up to 4x600W HPS/MH lamp ballasts (6x600W variant also available); 4x20 LCD display; 24h and asymmetrical timer; contactor 32A AC-3a; built-in battery power failure protection (0-300min); event log (20 events); no sensor input; no fan, humidity, or CO2 outputs; no app or WiFi; fuses: 2x10A slow"
+    }
+  ]
+}

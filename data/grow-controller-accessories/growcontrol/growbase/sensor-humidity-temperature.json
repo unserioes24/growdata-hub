@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase",
+  "name": "Sensor Humidity & Temperature",
+  "type": "temp_humidity_sensor",
+  "price_amount": 79,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/en_GB/shop/sensor-humidity-temperature-307",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Replacement/additional room humidity and temperature sensor; 5m cable, RJ45 plug; protective dust membrane; compatible with all GrowBase models"
+}

@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Aqua-X",
+  "name": "TrolMaster AMP-2 Sensor Board for Aqua-X (NFS-1)",
+  "type": "expansion_module",
+  "price_amount": 143.9,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/AMP-2",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Sensor board connecting pH and EC/temp probes to the NFS-1 Aqua-X controller. EUR price from hobbygrow.de"
+}

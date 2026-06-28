@@ -1,0 +1,41 @@
+{
+  "controller_model": "Autopilot FUEL DT16 Light Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "Autopilot FUEL DT16 Light Controller",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Universal (any HID brand)",
+      "compatible_series": "240V HPS / MH / CMH ballasts",
+      "compatible_model_examples": "Lumatek 1000W 240V, Phantom 1000W DE Commercial, Agrobrite 1000W 240V",
+      "compatibility_level": "full",
+      "connector_or_protocol": "NEMA 6-15 240V relay outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://seresag.com/products/autopilot-fuel-dt16-light-controller-16-outlet-240v-with-dual-triggers",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "16 NEMA 6-15 outlets at 240V/5A max each (~1200W per outlet); 4 banks of 4 with 30-sec staggered start; 80A total max ballast load; requires 100A main supply; two 120V trigger cords (each controls 8 lights independently); external timer or controller required per trigger cord; on/off relay only — no dimming; North American NEMA 6-15 standard"
+    },
+    {
+      "controller_model": "Autopilot FUEL DT16 Light Controller",
+      "compatible_product_category": "led_grow_light",
+      "compatible_brand": "Universal (any LED brand with 240V NEMA 6-15 plug)",
+      "compatible_series": null,
+      "compatible_model_examples": null,
+      "compatibility_level": "limited",
+      "connector_or_protocol": "NEMA 6-15 240V relay outlet",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://seresag.com/products/autopilot-fuel-dt16-light-controller-16-outlet-240v-with-dual-triggers",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "On/off relay switching only; no dimming protocol support (no 0-10V, PWM, digital); LED driver must have 240V NEMA 6-15 plug; dual triggers allow two independently scheduled LED zones of 8 lights each; not primary intended use"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "controller_model": "TrolMaster BETA-4 Digital Day/Night Temperature Controller",
+  "compatible_devices": [
+    {
+      "controller_model": "TrolMaster BETA-4 Digital Day/Night Temperature Controller",
+      "compatible_product_category": "heater",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any 120V plug-in electric space heater ≤10A",
+      "compatible_model_examples": "Dr. Heater DR-968, Comfort Zone CZ750, King Electric portable heaters",
+      "compatibility_level": "full",
+      "connector_or_protocol": "NEMA 5-15 outlet (relay, on/off)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.trolmaster.com/Products/Details/BETA-4",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Heating mode: relay activates heater when temperature falls below setpoint; deactivates once setpoint is reached. Day and night setpoints independently configurable via built-in photocell. Any 120V electric heater drawing ≤10A is plug-and-play compatible. Controller is 120V only (US market); requires step-down transformer for 230V German market."
+    },
+    {
+      "controller_model": "TrolMaster BETA-4 Digital Day/Night Temperature Controller",
+      "compatible_product_category": "ac_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any 120V AC inline or exhaust fan ≤10A",
+      "compatible_model_examples": "Can-Fan RK series, Hurricane, Active Air inline fans",
+      "compatibility_level": "limited",
+      "connector_or_protocol": "NEMA 5-15 outlet (relay, on/off)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.trolmaster.com/Products/Details/BETA-4",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Cooling mode: relay switches fan fully on when temperature exceeds setpoint; on/off only — no variable speed control (relay-based, not triac). For speed-controlled fan operation use BETA-2 instead. Max 10A. Controller is 120V only."
+    },
+    {
+      "controller_model": "TrolMaster BETA-4 Digital Day/Night Temperature Controller",
+      "compatible_product_category": "circulation_fan",
+      "compatible_brand": "Universal",
+      "compatible_series": "Any 120V AC motor circulation/clip fan ≤10A",
+      "compatible_model_examples": "Hurricane clip fans, Active Air clip fans, Hydrofarm clip fans",
+      "compatibility_level": "limited",
+      "connector_or_protocol": "NEMA 5-15 outlet (relay, on/off)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.trolmaster.com/Products/Details/BETA-4",
+      "source_type": "manufacturer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "On/off relay only in cooling mode; activates circulation fan above temperature setpoint. No speed control. Useful as secondary cooling assist in high-temperature situations. Controller is 120V only."
+    }
+  ]
+}

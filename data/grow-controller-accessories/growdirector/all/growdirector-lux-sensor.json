@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector LUX Sensor",
+  "type": "light_sensor",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://growdirector.com/shop/lux/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "2m (6.5ft) cable; measures light intensity in lux; operating temp 0-60C, humidity 0-99% RH; connects to SensorDirector"
+}

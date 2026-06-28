@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase",
+  "name": "IRCube",
+  "type": "sensor_probe",
+  "price_amount": 329,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/en_GB/shop/gc1125-ircube-468",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Infrared leaf temperature sensor for VPD control; 30° field of view; ±0.3°C accuracy (22-40°C); 5m cable; 1/4\" camera-mount thread for flexible positioning; IP54; Made in Germany"
+}

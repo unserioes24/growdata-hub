@@ -1,0 +1,12 @@
+{
+  "brand": "GrowControl",
+  "compatible_series": "GrowBase",
+  "name": "Cable SANlight Q",
+  "type": "controller_cable",
+  "price_amount": 36,
+  "price_currency": "EUR",
+  "source_url": "https://growcontrol.de/en_GB/shop/category/accessories-3",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "0-10V dimming cable for SANlight Q-series LED fixtures; enables dimming and sunrise/sunset functions via GrowBase controller"
+}

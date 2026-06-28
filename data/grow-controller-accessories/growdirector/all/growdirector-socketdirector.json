@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector SocketDirector",
+  "type": "smart_plug",
+  "price_amount": 580,
+  "price_currency": "USD",
+  "source_url": "https://growdirector.com/shop/socketdirector/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Smart outlet module with 2 AC sockets (100-240V, 13/15/16A total); supports Type B/E/F/G plugs; WiFi; controls fans, heaters, chillers, pumps; scalable to 32,000 devices"
+}

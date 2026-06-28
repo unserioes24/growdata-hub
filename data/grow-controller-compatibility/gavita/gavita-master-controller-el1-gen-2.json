@@ -1,0 +1,41 @@
+{
+  "controller_model": "Gavita Master Controller EL1 Gen 2",
+  "compatible_devices": [
+    {
+      "controller_model": "Gavita Master Controller EL1 Gen 2",
+      "compatible_product_category": "hid_grow_light",
+      "compatible_brand": "Gavita",
+      "compatible_series": "Pro-line e-series, DigiStar e-series",
+      "compatible_model_examples": "Pro 1000e DE, Pro 600e, Pro 1000e DE Flex",
+      "compatibility_level": "full",
+      "connector_or_protocol": "proprietary Gavita e-series bus (RJ 4P4C controller side / RJ 6P4C fixture side)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": "auto-dim on high temperature, auto-shutdown, sunrise/sunset ramping (0-30 min)",
+      "source_url": "https://hydrobuilder.com/products/gavita-master-controller-el1-gen-2",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "1 channel; up to 40 single bus or 500 repeater bus fixtures; output range 50-115% (boost mode); supports 400W-1000W ballasts; HPS and LEP e-series only; no fan or ECM control on EL1"
+    },
+    {
+      "controller_model": "Gavita Master Controller EL1 Gen 2",
+      "compatible_product_category": "led_grow_light",
+      "compatible_brand": "Gavita",
+      "compatible_series": "Pro e-series LED",
+      "compatible_model_examples": "Pro 1700e LED, Pro 900e LED, CT1930e LED",
+      "compatibility_level": "via_adapter",
+      "connector_or_protocol": "proprietary Gavita e-series bus (RJ)",
+      "requires_adapter_or_module": true,
+      "required_adapter_or_module": "Gavita E-Series LED Adapter Interconnect Cable (HGC906716 25ft or HGC906717 10ft)",
+      "app_ecosystem": null,
+      "ai_feature_scope": "auto-dim on high temperature, sunrise/sunset ramping",
+      "source_url": "https://www.htgsupply.com/products/gavita-master-controllers/",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "B",
+      "notes": "LED adapter cable mandatory; dimming range 50-100% only (no 115% boost for LED); confirmed for 1700e, 900e, CT1930e; EL1 has no fan or ECM ports"
+    }
+  ]
+}

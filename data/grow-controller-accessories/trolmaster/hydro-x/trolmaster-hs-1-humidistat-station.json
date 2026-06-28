@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Hydro-X",
+  "name": "TrolMaster HS-1 Humidistat Station",
+  "type": "relay_module",
+  "price_amount": 136.95,
+  "price_currency": "EUR",
+  "source_url": "https://www.trolmaster.com/Products/Details/HS-1",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Commercial dehumidifier interface; wired humidistat for devices that require wired humidistat control input. EUR price from lientec-led.com"
+}

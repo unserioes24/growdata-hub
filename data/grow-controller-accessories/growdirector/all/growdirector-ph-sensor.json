@@ -1,0 +1,12 @@
+{
+  "brand": "GrowDirector",
+  "compatible_series": "all",
+  "name": "GrowDirector pH Sensor",
+  "type": "ph_probe",
+  "price_amount": 379.95,
+  "price_currency": "USD",
+  "source_url": "https://growdirector.com/shop/ph/",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Industrial grade electrode cable 3m (10ft); pH range 0-14, temp 0-100C; connects to HydroDirector; price from Growers Supply US retailer"
+}

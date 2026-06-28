@@ -1,0 +1,12 @@
+{
+  "brand": "TrolMaster",
+  "compatible_series": "Aqua-X",
+  "name": "TrolMaster WCS-9 Substrate Sensor Set (VWC, EC & Temp)",
+  "type": "soil_sensor",
+  "price_amount": null,
+  "price_currency": null,
+  "source_url": "https://www.trolmaster.com/Products/Details/WCS-9",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "Professional 3-in-1 substrate sensor set measuring volumetric water content, EC, and temperature simultaneously"
+}

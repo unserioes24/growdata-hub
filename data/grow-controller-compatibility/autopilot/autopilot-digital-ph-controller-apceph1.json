@@ -1,0 +1,41 @@
+{
+  "controller_model": "Autopilot Digital pH Controller (APCEPH1)",
+  "compatible_devices": [
+    {
+      "controller_model": "Autopilot Digital pH Controller (APCEPH1)",
+      "compatible_product_category": "dosing_pump",
+      "compatible_brand": "Autopilot",
+      "compatible_series": null,
+      "compatible_model_examples": "APCEPH1 built-in peristaltic dosing pump",
+      "compatibility_level": "full",
+      "connector_or_protocol": "proprietary (integrated)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": null,
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://canadagrowsupplies.com/products/autopilot-digital-ph-controller",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Built-in chemically resistant low-voltage peristaltic dosing pump; automatically dispenses pH Up or pH Down into reservoir to maintain target pH; pH setpoint range 5.0–8.0; adjustable dosing time, mixing time, dead band, and max dosing cycles; data logger records min/max pH; compatible with any water-based hydroponic nutrient solution (any brand); no external dosing pump output — dosing is fully integrated"
+    },
+    {
+      "controller_model": "Autopilot Digital pH Controller (APCEPH1)",
+      "compatible_product_category": "sensor",
+      "compatible_brand": "Autopilot",
+      "compatible_series": null,
+      "compatible_model_examples": "APCEPH1SK pH Controller Sampling Kit",
+      "compatibility_level": "full",
+      "connector_or_protocol": "proprietary (integrated + optional sampling kit)",
+      "requires_adapter_or_module": false,
+      "required_adapter_or_module": "PHOTO LOC 0-10V Cable Kit CHC882000B required for PHOTOBIO X, M, T, T Duo series (included or sold separately)",
+      "app_ecosystem": null,
+      "ai_feature_scope": null,
+      "source_url": "https://www.1000bulbs.com/product/100400/GROW-APCEPH1SK.html",
+      "source_type": "retailer",
+      "source_date": "2026-06-28",
+      "confidence_level": "A",
+      "notes": "Built-in glass pH probe and temperature sensor with automatic temperature compensation; optional APCEPH1SK sampling kit (sold separately) improves accuracy by providing continuous flow across sensors: includes submersible pump 300 LPH/80 GPH (6 ft lift), 3/4 in × 5 ft tubing, and molded sensor assembly with mounting bracket for reservoir installation; probe calibration required periodically"
+    }
+  ]
+}

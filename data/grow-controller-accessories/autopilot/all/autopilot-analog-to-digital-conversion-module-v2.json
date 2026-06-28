@@ -1,0 +1,12 @@
+{
+  "brand": "Autopilot",
+  "compatible_series": "all",
+  "name": "Autopilot Analog to Digital Conversion Module V2",
+  "type": "expansion_module",
+  "price_amount": 219.99,
+  "price_currency": "USD",
+  "source_url": "https://cultivatesupply.com/products/autopilot-analog-to-digital-conversion-module-v2",
+  "source_type": "retailer",
+  "source_date": "2026-06-28",
+  "notes": "SKU APBC1001; converts 0-10V and 0-11.5V analog signal to RS-485 digital; two zones each controlling 256 fixtures (512 total); enables analog environmental controllers to drive smart LED/HID fixtures"
+}

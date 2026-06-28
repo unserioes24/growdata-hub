@@ -1,0 +1,12 @@
+{
+  "brand": "GSE",
+  "compatible_series": "SGC",
+  "name": "SGC Water Sensor",
+  "type": "sensor_probe",
+  "price_amount": 39,
+  "price_currency": "EUR",
+  "source_url": "https://g-systems.eu/shop/product/sg20-sgc-water-sensor-1432",
+  "source_type": "manufacturer",
+  "source_date": "2026-06-28",
+  "notes": "SG20; water leakage/flood detection sensor with gold-plated sensor tracks; top-coated electronics for humid environments; 4m PU cable"
+}
