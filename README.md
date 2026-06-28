@@ -4,6 +4,8 @@ An open, structured dataset of indoor cultivation equipment — specs, airflow r
 
 No Amazon links. No affiliate clutter. Just the data.
 
+**Browse online:** [unserioes24.github.io/growdata-hub](https://unserioes24.github.io/growdata-hub/)
+
 ---
 
 ## What's in here
@@ -193,20 +195,20 @@ Exit code 0 = clean, 1 = errors found, 2 = setup problem.
 
 ## GitHub Pages browser
 
-A searchable web interface is available in the `docs/` directory.
+A searchable web interface is live at **[unserioes24.github.io/growdata-hub](https://unserioes24.github.io/growdata-hub/)**.
 
-To enable GitHub Pages: go to **Settings → Pages** in your repository, set Source to **"Deploy from a branch"**, branch `main`, folder `/docs`.
+It is deployed automatically on every push to `main` via GitHub Actions (`.github/workflows/pages.yml`). To enable it on a fork: go to **Settings → Pages → Source → GitHub Actions**.
 
-To rebuild the data index after updating JSON files:
+To rebuild the catalog locally after updating JSON files:
 
 ```bash
-python scripts/build_site.py
+python build_catalog.py
 ```
 
-Then commit `docs/data/index.json` along with your data changes.
+Then commit the updated `catalog/` files along with your data changes.
 
 ---
 
 ## License
 
-Data is released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. Use it however you like.
+[MIT](./LICENSE)
