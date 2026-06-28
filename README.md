@@ -177,6 +177,36 @@ Contributions are very welcome. This dataset only grows through community effort
 
 ---
 
+## Validation
+
+Run the schema and logic validator locally:
+
+```bash
+pip install jsonschema>=4.0
+python validate.py            # validate all categories
+python validate.py grow-tents # validate a single category
+```
+
+Exit code 0 = clean, 1 = errors found, 2 = setup problem.
+
+---
+
+## GitHub Pages browser
+
+A searchable web interface is available in the `docs/` directory.
+
+To enable GitHub Pages: go to **Settings → Pages** in your repository, set Source to **"Deploy from a branch"**, branch `main`, folder `/docs`.
+
+To rebuild the data index after updating JSON files:
+
+```bash
+python scripts/build_site.py
+```
+
+Then commit `docs/data/index.json` along with your data changes.
+
+---
+
 ## License
 
 Data is released under [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) — public domain. Use it however you like.
