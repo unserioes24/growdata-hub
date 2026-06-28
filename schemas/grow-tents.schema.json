@@ -40,7 +40,7 @@
     "confidence_level": {
       "oneOf": [
         { "type": "null" },
-        { "type": "string", "enum": ["A", "B", "C", "D"] }
+        { "type": "string", "enum": ["A+", "A", "B", "C", "D"] }
       ]
     },
     "uvp_amount": { "type": ["number", "null"], "minimum": 0 },

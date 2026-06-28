@@ -37,7 +37,7 @@
     "source_url":                   { "type": "string", "format": "uri" },
     "source_type":                  { "type": "string", "enum": ["manufacturer", "manufacturer_pdf", "retailer", "distributor", "review", "community"] },
     "source_date":                  { "type": "string", "pattern": "^[0-9]{4}-[0-9]{2}-[0-9]{2}$" },
-    "confidence_level":             { "type": "string", "enum": ["A", "B", "C", "D"] },
+    "confidence_level":             { "type": "string", "enum": ["A+", "A", "B", "C", "D"] },
     "notes":                        { "type": ["string", "null"] }
   }
 }

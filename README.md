@@ -160,6 +160,7 @@ Contributions are very welcome. This dataset only grows through community effort
 
 | Level | Meaning |
 |---|---|
+| `A+` | Data provided directly by the manufacturer (e.g. via email, press kit, or direct cooperation) |
 | `A` | Verified directly from manufacturer — manufacturer page, official PDF, or manual |
 | `B` | Mix of manufacturer and retailer/marketplace/independent test sources — plausible but not confirmed by a datasheet |
 | `C` | Primarily retailer data, unverified or partially estimated |
