@@ -3,15 +3,13 @@ name: Validate data
 on:
   push:
     branches: [main]
-    paths:
-      - "data/**"
-      - "schemas/**"
-      - "validate.py"
   pull_request:
     paths:
       - "data/**"
       - "schemas/**"
       - "validate.py"
+      - ".github/workflows/validate.yml"
+  workflow_dispatch:
 
 jobs:
   validate:
