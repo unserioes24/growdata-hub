@@ -1,0 +1,30 @@
+name: Validate data
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "schemas/**"
+      - "validate.py"
+  pull_request:
+    paths:
+      - "data/**"
+      - "schemas/**"
+      - "validate.py"
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: pip install jsonschema>=4.0
+
+      - name: Validate all JSON files
+        run: python validate.py
