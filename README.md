@@ -19,6 +19,7 @@ No Amazon links. No affiliate clutter. Just the data.
 | [`grow-controllers/`](./data/grow-controllers) | 170 | 15 |
 | [`grow-light-fixtures/`](./data/grow-light-fixtures) | 261 | 26 |
 | [`grow-tents/`](./data/grow-tents) | 299 | 18 |
+| [`humidifiers/`](./data/humidifiers) | 19 | 7 |
 | [`inline-duct-fans/`](./data/inline-duct-fans) | 253 | 20 |
 
 ---
