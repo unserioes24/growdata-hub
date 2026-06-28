@@ -225,7 +225,7 @@ function renderHome() {
       <div class="hero">
         <h1>GrowData Hub</h1>
         <p>Open, structured dataset of indoor cultivation equipment. No affiliate links, no paywalls.</p>
-        <p class="hero-meta"><strong>${totalProducts.toLocaleString('en')}</strong> products across <strong>${totalCats}</strong> categories — CC0 licensed</p>
+        <p class="hero-meta"><strong>${totalProducts.toLocaleString('en')}</strong> products across <strong>${totalCats}</strong> categories — MIT licensed</p>
       </div>
       <div class="category-grid">${tiles}</div>
     </div>`
