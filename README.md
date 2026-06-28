@@ -160,10 +160,10 @@ Contributions are very welcome. This dataset only grows through community effort
 
 | Level | Meaning |
 |---|---|
-| `A` | Verified directly from manufacturer source |
-| `B` | Verified from a reputable retailer or secondary manufacturer source |
-| `C` | Inferred from multiple sources, may have minor inaccuracies |
-| `D` | Estimated or placeholder — needs verification |
+| `A` | Verified directly from manufacturer — manufacturer page, official PDF, or manual |
+| `B` | Mix of manufacturer and retailer/marketplace/independent test sources — plausible but not confirmed by a datasheet |
+| `C` | Primarily retailer data, unverified or partially estimated |
+| `D` | Very thin or heavily incomplete — needs verification |
 
 **Not sure where to start?** Look for products with `confidence_level: "C"` or `"D"` — those need the most attention.
 
