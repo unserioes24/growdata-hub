@@ -1,0 +1,52 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Grow Controller Compatibility",
+  "description": "Schema for controller-to-device compatibility maps",
+  "type": "object",
+  "required": ["controller_model", "compatible_devices"],
+  "additionalProperties": false,
+  "properties": {
+    "controller_model": { "type": "string", "minLength": 1 },
+    "compatible_devices": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+          "controller_model": { "type": ["string", "null"] },
+          "compatible_product_category": { "type": ["string", "null"] },
+          "compatible_brand": { "type": ["string", "null"] },
+          "compatible_series": { "type": ["string", "null"] },
+          "compatible_model_examples": { "type": ["string", "null"] },
+          "compatibility_level": {
+            "oneOf": [
+              { "type": "null" },
+              { "type": "string", "enum": ["full", "partial", "via_adapter", "limited", "unknown"] }
+            ]
+          },
+          "connector_or_protocol": { "type": ["string", "null"] },
+          "requires_adapter_or_module": {
+            "anyOf": [
+              { "type": "boolean" },
+              { "type": "null" },
+              { "type": "string", "enum": ["unknown"] }
+            ]
+          },
+          "required_adapter_or_module": { "type": ["string", "null"] },
+          "app_ecosystem": { "type": ["string", "null"] },
+          "ai_feature_scope": { "type": ["string", "null"] },
+          "source_url": { "type": ["string", "null"] },
+          "source_type": { "type": ["string", "null"] },
+          "source_date": { "type": ["string", "null"] },
+          "confidence_level": {
+            "oneOf": [
+              { "type": "null" },
+              { "type": "string", "enum": ["A", "B", "C", "D"] }
+            ]
+          },
+          "notes": { "type": ["string", "null"] }
+        }
+      }
+    }
+  }
+}

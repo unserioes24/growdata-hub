@@ -1,0 +1,45 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Inline Duct Fan",
+  "description": "Schema for inline and mixed-flow duct fans",
+  "type": "object",
+  "required": ["brand", "model", "status"],
+  "additionalProperties": false,
+  "properties": {
+    "brand": { "type": "string", "minLength": 1 },
+    "series": { "type": ["string", "null"] },
+    "model": { "type": "string", "minLength": 1 },
+    "status": { "type": "string", "enum": ["active", "discontinued"] },
+    "fan_role": { "type": ["string", "null"] },
+    "fan_type": { "type": ["string", "null"] },
+    "motor_type": { "type": ["string", "null"] },
+    "flange_diameter_mm": { "type": ["number", "null"], "exclusiveMinimum": 0 },
+    "max_airflow_m3_h": { "type": ["number", "null"], "minimum": 0 },
+    "recommended_airflow_m3_h": { "type": ["number", "null"], "minimum": 0 },
+    "static_pressure_pa": { "type": ["number", "null"], "minimum": 0 },
+    "noise_db_min": { "type": ["number", "null"], "minimum": 0 },
+    "noise_db_max": { "type": ["number", "null"], "minimum": 0 },
+    "power_watts_min": { "type": ["number", "null"], "minimum": 0 },
+    "power_watts_max": { "type": ["number", "null"], "minimum": 0 },
+    "speed_control_type": { "type": ["string", "null"] },
+    "controller_included": { "type": ["boolean", "null"] },
+    "app_control": { "type": ["boolean", "null"] },
+    "wifi": { "type": ["boolean", "null"] },
+    "bluetooth": { "type": ["boolean", "null"] },
+    "length_mm": { "type": ["number", "null"], "minimum": 0 },
+    "diameter_mm": { "type": ["number", "null"], "minimum": 0 },
+    "weight_kg": { "type": ["number", "null"], "minimum": 0 },
+    "source_url": { "type": ["string", "null"] },
+    "source_type": { "type": ["string", "null"] },
+    "source_date": { "type": ["string", "null"] },
+    "confidence_level": {
+      "oneOf": [
+        { "type": "null" },
+        { "type": "string", "enum": ["A", "B", "C", "D"] }
+      ]
+    },
+    "uvp_amount": { "type": ["number", "null"], "minimum": 0 },
+    "uvp_currency": { "type": ["string", "null"] },
+    "notes": { "type": ["string", "null"] }
+  }
+}

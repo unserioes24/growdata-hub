@@ -1,0 +1,49 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Circulation Fan",
+  "description": "Schema for clip, floor, wall and pole circulation fans",
+  "type": "object",
+  "required": ["brand", "model", "status"],
+  "additionalProperties": false,
+  "properties": {
+    "brand": { "type": "string", "minLength": 1 },
+    "series": { "type": ["string", "null"] },
+    "model": { "type": "string", "minLength": 1 },
+    "status": { "type": "string", "enum": ["active", "discontinued"] },
+    "fan_category": { "type": ["string", "null"] },
+    "fan_role": { "type": ["string", "null"] },
+    "include_in_default_airflow_calculator": { "type": ["boolean", "null"] },
+    "mounting_type": { "type": ["string", "null"] },
+    "oscillation": { "type": ["boolean", "null"] },
+    "oscillation_degrees": { "type": ["number", "null"], "minimum": 0, "maximum": 360 },
+    "blade_diameter_cm": { "type": ["number", "null"], "minimum": 0 },
+    "fan_diameter_cm": { "type": ["number", "null"], "minimum": 0 },
+    "airflow_m3_h": { "type": ["number", "null"], "minimum": 0 },
+    "airflow_cfm": { "type": ["number", "null"], "minimum": 0 },
+    "speed_levels": { "type": ["integer", "null"], "minimum": 1 },
+    "rpm_min": { "type": ["number", "null"], "minimum": 0 },
+    "rpm_max": { "type": ["number", "null"], "minimum": 0 },
+    "noise_db_min": { "type": ["number", "null"], "minimum": 0 },
+    "noise_db_max": { "type": ["number", "null"], "minimum": 0 },
+    "power_watts_min": { "type": ["number", "null"], "minimum": 0 },
+    "power_watts_max": { "type": ["number", "null"], "minimum": 0 },
+    "controller_compatible": { "type": ["boolean", "null"] },
+    "app_control": { "type": ["boolean", "null"] },
+    "wifi": { "type": ["boolean", "null"] },
+    "bluetooth": { "type": ["boolean", "null"] },
+    "recommended_tent_min_cm": { "type": ["number", "null"], "minimum": 0 },
+    "recommended_tent_max_cm": { "type": ["number", "null"], "minimum": 0 },
+    "source_url": { "type": ["string", "null"] },
+    "source_type": { "type": ["string", "null"] },
+    "source_date": { "type": ["string", "null"] },
+    "confidence_level": {
+      "oneOf": [
+        { "type": "null" },
+        { "type": "string", "enum": ["A", "B", "C", "D"] }
+      ]
+    },
+    "uvp_amount": { "type": ["number", "null"], "minimum": 0 },
+    "uvp_currency": { "type": ["string", "null"] },
+    "notes": { "type": ["string", "null"] }
+  }
+}

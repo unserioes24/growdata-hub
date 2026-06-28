@@ -1,0 +1,20 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Grow Controller Accessory",
+  "description": "Schema for sensors, cables, adapters and modules compatible with grow controllers",
+  "type": "object",
+  "required": ["brand", "name"],
+  "additionalProperties": false,
+  "properties": {
+    "brand": { "type": "string", "minLength": 1 },
+    "compatible_series": { "type": ["string", "null"] },
+    "name": { "type": "string", "minLength": 1 },
+    "type": { "type": ["string", "null"] },
+    "price_amount": { "type": ["number", "null"], "minimum": 0 },
+    "price_currency": { "type": ["string", "null"] },
+    "source_url": { "type": ["string", "null"] },
+    "source_type": { "type": ["string", "null"] },
+    "source_date": { "type": ["string", "null"] },
+    "notes": { "type": ["string", "null"] }
+  }
+}

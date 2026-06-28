@@ -1,0 +1,55 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Grow Light Fixture",
+  "description": "Schema for LED and HID grow light fixtures",
+  "type": "object",
+  "required": ["brand", "model", "status"],
+  "additionalProperties": false,
+  "properties": {
+    "brand": { "type": "string", "minLength": 1 },
+    "series": { "type": ["string", "null"] },
+    "model": { "type": "string", "minLength": 1 },
+    "revision": { "type": ["string", "number", "null"] },
+    "status": {
+      "anyOf": [
+        { "type": "null" },
+        { "type": "string", "enum": ["active", "discontinued", "unknown", "upcoming", "needs_research"] }
+      ]
+    },
+    "fixture_role": { "type": ["string", "null"] },
+    "is_primary_fixture_default": {
+      "anyOf": [
+        { "type": "boolean" },
+        { "type": "null" },
+        { "type": "string", "enum": ["unknown", "conditional"] }
+      ]
+    },
+    "supplemental_type": { "type": ["string", "null"] },
+    "include_in_default_dli_calculator": { "type": ["boolean", "null"] },
+    "power_watts": { "type": ["number", "null"], "minimum": 0 },
+    "ppf_umol_s": { "type": ["number", "null"], "minimum": 0 },
+    "efficacy_umol_j": { "type": ["number", "null"], "minimum": 0 },
+    "ppfd_umol_m2_s": { "type": ["number", "null"], "minimum": 0 },
+    "ppfd_distance_cm": { "type": ["number", "null"], "minimum": 0 },
+    "ppfd_source_note": { "type": ["string", "null"] },
+    "area_width_cm": { "type": ["number", "null"], "minimum": 0 },
+    "area_depth_cm": { "type": ["number", "null"], "minimum": 0 },
+    "technical_source_url": { "type": ["string", "null"] },
+    "source_type": { "type": ["string", "null"] },
+    "source_date": { "type": ["string", "null"] },
+    "confidence_level": {
+      "oneOf": [
+        { "type": "null" },
+        { "type": "string", "enum": ["A", "B", "C", "D"] }
+      ]
+    },
+    "notes": { "type": ["string", "null"] },
+    "uvp_amount": { "type": ["number", "null"], "minimum": 0 },
+    "uvp_currency": { "type": ["string", "null"] },
+    "uvp_source_url": { "type": ["string", "null"] },
+    "uvp_source_type": { "type": ["string", "null"] },
+    "uvp_source_date": { "type": ["string", "null"] },
+    "uvp_confidence_level": { "type": ["string", "null"] },
+    "uvp_notes": { "type": ["string", "null"] }
+  }
+}

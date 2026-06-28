@@ -1,0 +1,50 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Grow Tent",
+  "description": "Schema for indoor grow tent products",
+  "type": "object",
+  "required": ["brand", "model", "status"],
+  "additionalProperties": false,
+  "properties": {
+    "brand": { "type": "string", "minLength": 1 },
+    "series": { "type": ["string", "null"] },
+    "model": { "type": "string", "minLength": 1 },
+    "status": { "type": "string", "enum": ["active", "discontinued"] },
+    "tent_type": { "type": ["string", "null"] },
+    "tent_role": { "type": ["string", "null"] },
+    "width_cm": { "type": ["number", "null"], "exclusiveMinimum": 0 },
+    "depth_cm": { "type": ["number", "null"], "exclusiveMinimum": 0 },
+    "height_cm": { "type": ["number", "null"], "exclusiveMinimum": 0 },
+    "area_m2": { "type": ["number", "null"], "exclusiveMinimum": 0 },
+    "volume_m3": { "type": ["number", "null"], "exclusiveMinimum": 0 },
+    "fabric_thickness_d": { "type": ["integer", "null"], "minimum": 0 },
+    "reflective_material": { "type": ["string", "null"] },
+    "reflectivity_percent": { "type": ["number", "null"], "minimum": 0, "maximum": 100 },
+    "frame_material": { "type": ["string", "null"] },
+    "pole_diameter_mm": { "type": ["number", "null"], "exclusiveMinimum": 0 },
+    "max_load_kg": { "type": ["number", "null"], "minimum": 0 },
+    "door_count": { "type": ["integer", "null"], "minimum": 0 },
+    "viewing_window": { "type": ["boolean", "null"] },
+    "floor_tray_included": { "type": ["boolean", "null"] },
+    "duct_ports_count": { "type": ["integer", "null"], "minimum": 0 },
+    "duct_port_sizes_mm": { "type": ["string", "number", "null"] },
+    "cable_ports_count": { "type": ["integer", "null"], "minimum": 0 },
+    "recommended_exhaust_airflow_m3_h_min": { "type": ["number", "null"], "minimum": 0 },
+    "recommended_exhaust_airflow_m3_h_max": { "type": ["number", "null"], "minimum": 0 },
+    "recommended_light_power_w_min": { "type": ["number", "null"], "minimum": 0 },
+    "recommended_light_power_w_max": { "type": ["number", "null"], "minimum": 0 },
+    "include_in_default_tent_calculator": { "type": ["boolean", "null"] },
+    "source_url": { "type": ["string", "null"] },
+    "source_type": { "type": ["string", "null"] },
+    "source_date": { "type": ["string", "null"] },
+    "confidence_level": {
+      "oneOf": [
+        { "type": "null" },
+        { "type": "string", "enum": ["A", "B", "C", "D"] }
+      ]
+    },
+    "uvp_amount": { "type": ["number", "null"], "minimum": 0 },
+    "uvp_currency": { "type": ["string", "null"] },
+    "notes": { "type": ["string", "null"] }
+  }
+}
