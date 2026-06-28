@@ -1,0 +1,69 @@
+{
+  "generated": "2026-06-28",
+  "categories": [
+    {
+      "label": "Carbon Filters",
+      "description": "Inline activated carbon filters for odor removal",
+      "icon": "filter",
+      "color": "#3fb950",
+      "id": "carbon-filters",
+      "total": 211
+    },
+    {
+      "label": "Circulation Fans",
+      "description": "Clip, floor, wall, and pedestal fans for air circulation",
+      "icon": "fan",
+      "color": "#388bfd",
+      "id": "circulation-fans",
+      "total": 62
+    },
+    {
+      "label": "Controller Accessories",
+      "description": "Sensors, adapters, cables, and expansion modules",
+      "icon": "plug",
+      "color": "#bc8cff",
+      "id": "grow-controller-accessories",
+      "total": 276
+    },
+    {
+      "label": "Controller Compat.",
+      "description": "Which devices pair with which controllers",
+      "icon": "link",
+      "color": "#e3b341",
+      "id": "grow-controller-compatibility",
+      "total": 167
+    },
+    {
+      "label": "Grow Controllers",
+      "description": "Climate, fan, and environmental automation controllers",
+      "icon": "sliders",
+      "color": "#f0883e",
+      "id": "grow-controllers",
+      "total": 170
+    },
+    {
+      "label": "Grow Lights",
+      "description": "LED and HID grow light fixtures",
+      "icon": "sun",
+      "color": "#ffd33d",
+      "id": "grow-light-fixtures",
+      "total": 261
+    },
+    {
+      "label": "Grow Tents",
+      "description": "Reflective indoor grow tents",
+      "icon": "tent",
+      "color": "#79c0ff",
+      "id": "grow-tents",
+      "total": 299
+    },
+    {
+      "label": "Inline Duct Fans",
+      "description": "Mixed-flow and centrifugal extraction fans",
+      "icon": "wind",
+      "color": "#56d364",
+      "id": "inline-duct-fans",
+      "total": 253
+    }
+  ]
+}
