@@ -1,0 +1,85 @@
+name: "Wrong or outdated data"
+description: "Report a spec, price, or field value that is incorrect or no longer accurate."
+labels: ["data-error"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping keep the dataset accurate. Please fill in as much detail as you can.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - carbon-filters
+        - circulation-fans
+        - grow-controller-accessories
+        - grow-controller-compatibility
+        - grow-controllers
+        - grow-light-fixtures
+        - grow-tents
+        - inline-duct-fans
+    validations:
+      required: true
+
+  - type: input
+    id: file
+    attributes:
+      label: File path or product name
+      description: "e.g. `data/carbon-filters/ac-infinity/australian-charcoal-carbon-filter/duct-carbon-filter-6.json` or just the model name."
+      placeholder: "data/…/model-name.json"
+    validations:
+      required: true
+
+  - type: input
+    id: field
+    attributes:
+      label: Field(s) affected
+      description: "e.g. `max_airflow_m3_h`, `uvp_amount`, `status`"
+      placeholder: "field_name"
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: Current value
+      description: "What the file currently says."
+    validations:
+      required: true
+
+  - type: textarea
+    id: correct
+    attributes:
+      label: Correct value
+      description: "What it should say."
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: "Link to the manufacturer or retailer page that confirms the correct value. No Amazon links please."
+      placeholder: "https://…"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: confidence
+    attributes:
+      label: Confidence level of your source
+      options:
+        - "A — Manufacturer page"
+        - "B — Reputable retailer"
+        - "C — Inferred from multiple sources"
+        - "D — Estimated"
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Additional notes
+      description: "Anything else that might be useful (regional differences, model revisions, etc.)."

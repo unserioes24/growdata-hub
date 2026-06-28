@@ -1,0 +1,66 @@
+name: "Missing product or model"
+description: "Request a product that isn't in the dataset yet."
+labels: ["missing-data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Found a product that's not in the dataset? Let us know. Even a partial entry with just a source URL is a huge help.
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - carbon-filters
+        - circulation-fans
+        - grow-controller-accessories
+        - grow-controller-compatibility
+        - grow-controllers
+        - grow-light-fixtures
+        - grow-tents
+        - inline-duct-fans
+        - Other / new category
+    validations:
+      required: true
+
+  - type: input
+    id: brand
+    attributes:
+      label: Brand
+      placeholder: "e.g. AC Infinity"
+    validations:
+      required: true
+
+  - type: input
+    id: model
+    attributes:
+      label: Model name(s)
+      description: "List individual models or a whole series."
+      placeholder: "e.g. Cloudline T8, T10"
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      description: "Manufacturer or retailer page. No Amazon links."
+      placeholder: "https://…"
+    validations:
+      required: true
+
+  - type: textarea
+    id: specs
+    attributes:
+      label: Known specs (optional)
+      description: "Paste any specs you already know — airflow, dimensions, wattage, price, etc."
+      render: text
+
+  - type: checkboxes
+    id: contribute
+    attributes:
+      label: Can you contribute a PR?
+      options:
+        - label: "Yes, I can open a PR with the JSON file(s)."
+        - label: "No, I'm just flagging it — happy for someone else to add it."

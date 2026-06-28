@@ -1,0 +1,49 @@
+name: "New category suggestion"
+description: "Propose a new product category (e.g. humidifiers, CO₂ equipment, pH meters)."
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        New categories are added when there's enough data to make them useful. A suggestion with a list of products and source URLs is much more likely to get picked up quickly.
+
+  - type: input
+    id: name
+    attributes:
+      label: Category name
+      description: "Short, lowercase, hyphen-separated — same style as existing categories."
+      placeholder: "e.g. co2-controllers"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What products does this cover?
+      description: "Describe the type of equipment and why it belongs in a separate category."
+    validations:
+      required: true
+
+  - type: textarea
+    id: fields
+    attributes:
+      label: Key fields / specs
+      description: "What fields would a product in this category have? List the most important ones."
+      placeholder: |
+        - co2_output_g_h
+        - tank_capacity_l
+        - auto_shutoff
+        - …
+    validations:
+      required: true
+
+  - type: textarea
+    id: examples
+    attributes:
+      label: Example products and source URLs
+      description: "List a few concrete products with links to their manufacturer pages."
+      placeholder: |
+        - Brand X Model Y — https://…
+        - Brand Z Model W — https://…
+    validations:
+      required: true
